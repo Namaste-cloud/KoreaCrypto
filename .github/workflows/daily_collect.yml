@@ -1,10 +1,13 @@
-name: Daily Digital Asset Collector (KoreaCrypto)
+name: Hourly Digital Asset Collector (KoreaCrypto)
 
 on:
   schedule:
-    # 매일 한국시간 06:30 KST (UTC 21:30)
-    - cron: '30 21 * * *'
+    # 매 1시간마다 실행 (매시 0분)
+    - cron: '0 * * * *'
   workflow_dispatch: # 수동 즉시 실행 가능
+
+permissions:
+  contents: write
 
 jobs:
   collect-and-update:
@@ -33,6 +36,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No data changes detected. Keeping existing state intact."
           else
-            git commit -m "chore(auto): daily digital asset intel sync [$(date +'%Y-%m-%d %H:%M KST')]"
+            git commit -m "chore(auto): hourly digital asset intel sync [$(date +'%Y-%m-%d %H:%M KST')]"
             git push
           fi

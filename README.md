@@ -53,7 +53,7 @@
 
 ## 3. 자동 갱신 및 운영 구조
 
-- **스케줄러:** 매일 06:30 KST (`.github/workflows/daily_collect.yml`)
+- **스케줄러:** 매 1시간마다 자동 실행 (`.github/workflows/daily_collect.yml`, 매시 정각)
 - **수집 스크립트:** `scripts/collector.py`
 - **상태 보존:** 수집 실패 시 기존 데이터를 안전하게 보존하며, `status.json`에 시각 기록 분리
   - `lastAttemptAt`: 마지막 수집 시도 시각

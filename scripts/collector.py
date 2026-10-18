@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 KoreaCrypto Institutional Digital Asset Automated Collector & Verifier
-- 실행 주기: 매일 오전 06:30 KST (GitHub Actions 또는 로컬 crontab)
+- 실행 주기: 매 1시간마다 자동 실행 (GitHub Actions 또는 로컬 crontab)
 - 출처: 금융위원회, 한국은행, 구글 뉴스 RSS, 네이버 뉴스
 - 처리: 신규 기사 정규화, 중복 제거, 사건 묶기, 공식 근거 기반 분류, 검토 큐 격리, 상태 기록
 """
