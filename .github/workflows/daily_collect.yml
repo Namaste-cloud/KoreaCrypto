@@ -1,0 +1,38 @@
+name: Daily Digital Asset Collector (KoreaCrypto)
+
+on:
+  schedule:
+    # 매일 한국시간 06:30 KST (UTC 21:30)
+    - cron: '30 21 * * *'
+  workflow_dispatch: # 수동 즉시 실행 가능
+
+jobs:
+  collect-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run KoreaCrypto Automated Collector
+        run: |
+          python scripts/collector.py
+
+      - name: Commit and Push Changes if any
+        run: |
+          git config --local user.email "bot@koreacrypto.local"
+          git config --local user.name "KoreaCrypto-Collector-Bot"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes detected. Keeping existing state intact."
+          else
+            git commit -m "chore(auto): daily digital asset intel sync [$(date +'%Y-%m-%d %H:%M KST')]"
+            git push
+          fi

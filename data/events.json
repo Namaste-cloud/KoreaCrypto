@@ -1,0 +1,92 @@
+[
+  {
+    "id": "evt_sto_subreg_notice",
+    "title": "토큰증권 전자증권법·자본시장법 하위법규(시행령·규정) 입법예고",
+    "eventDate": "2026-10-02",
+    "summary": "금융위가 2027.2.4 법 시행을 위한 하위법규 입법예고 실시. 정형증권(사모MMF·채권) 토큰화 공식 포함, 발행인계좌관리기관 자기자본 40억원 요건, 장외거래소 채무증권 인가단위 신설 및 일반투자자 연간 1억원 한도 규정.",
+    "relatedOrgIds": ["org_fsc", "org_kb_sec", "org_mirae_sec", "org_ksd", "org_kiwoom_sec"],
+    "relatedProjectIds": ["proj_kb_sto_v2", "proj_mirae_buidl_mmf", "proj_kdx_consortium"],
+    "sourceIds": ["src_fsc_87838"]
+  },
+  {
+    "id": "evt_bok_treasury_cbdc_decision",
+    "title": "한국은행 국채 토큰화 실증사업 결제수단으로 기관용 CBDC 공식 채택",
+    "eventDate": "2026-10-12",
+    "summary": "한국은행 국감 답변을 통해 2027년 국채 토큰화 실증에서 민간 스테이블코인 배제 및 중앙은행 기관용 CBDC를 결제자산으로 활용해 즉각적 결제완결성을 확보하겠다고 공표함.",
+    "relatedOrgIds": ["org_bok", "org_fsc", "org_ksd"],
+    "relatedProjectIds": ["proj_bok_treasury_token"],
+    "sourceIds": ["src_bok_treasury_etnews"]
+  },
+  {
+    "id": "evt_meritz_ripple_mou",
+    "title": "메리츠증권-리플 디지털자산 인프라 및 커스터디 전략적 파트너십 체결",
+    "eventDate": "2026-10-01",
+    "summary": "메리츠증권 장원재 대표와 리플 모니카 롱 사장이 여의도 본사에서 만나 리플 커스터디 등 기관용 인프라 접목 파트너십을 체결함.",
+    "relatedOrgIds": ["org_meritz_sec", "org_ripple"],
+    "relatedProjectIds": ["proj_meritz_ripple"],
+    "sourceIds": ["src_meritz_ripple_ebn"]
+  },
+  {
+    "id": "evt_kbw2026_securities_panel",
+    "title": "KBW 2026 증권사 패널: 미래에셋·하나·신한 '정형증권 온체인화' 전략 발표",
+    "eventDate": "2026-10-01",
+    "summary": "주요 증권사 본부장들이 패널에 참석하여 사모 MMF의 T+0 온체인 환매 및 레포(Repo) 시장 구축(미래에셋), 한돈 등 실물자산 발행 확대(하나), 기관 인프라 경쟁을 공식화함.",
+    "relatedOrgIds": ["org_mirae_sec", "org_hana_sec", "org_shinhan_sec"],
+    "relatedProjectIds": ["proj_mirae_buidl_mmf"],
+    "sourceIds": ["src_kbw_mirae_hankooki"]
+  },
+  {
+    "id": "evt_shinhan_canton_expansion",
+    "title": "신한금융그룹-디지털에셋·캔톤 재단 최고위 면담 및 협력 확대",
+    "eventDate": "2026-09-29",
+    "summary": "신한금융 진옥동 회장이 미국 디지털에셋 유발 루즈 CEO, 캔톤 재단 대표와 회동하여 은행·증권·운용 연계 글로벌 토큰화 금융 협력 확대 논의.",
+    "relatedOrgIds": ["org_shinhan_fg", "org_shinhan_sec", "org_canton"],
+    "relatedProjectIds": ["proj_shinhan_canton_governance"],
+    "sourceIds": ["src_shinhan_yna_sep29", "src_shinhan_superval_enews"]
+  },
+  {
+    "id": "evt_kb_securitize_mou",
+    "title": "KB증권-시큐리타이즈-옵티미즘 재단 기관 토큰증권 사업 협력 업무협약 체결",
+    "eventDate": "2026-09-21",
+    "summary": "KB증권이 글로벌 1위 토큰화 인프라 시큐리타이즈 및 이더리움 L2 옵티미즘과 협약을 맺고 국내 기관용 토큰화 상품 발행·공급 체계 구축 착수.",
+    "relatedOrgIds": ["org_kb_sec", "org_securitize", "org_optimism"],
+    "relatedProjectIds": ["proj_kb_securitize_optimism"],
+    "sourceIds": ["src_kb_securitize_yna"]
+  },
+  {
+    "id": "evt_mirae_korbit_approval",
+    "title": "공정거래위원회, 미래에셋의 가상자산거래소 코빗 인수 승인",
+    "eventDate": "2026-07-09",
+    "summary": "공정위가 미래에셋컨설팅의 코빗 지분 92.06% 취득 승인. 이후 상호 및 서비스를 '디지털엑스'로 전면 변경하여 금융-가상자산 결합 공식화.",
+    "relatedOrgIds": ["org_mirae_fg", "org_korbit"],
+    "relatedProjectIds": [],
+    "sourceIds": ["src_mirae_korbit_donga"]
+  },
+  {
+    "id": "evt_hangang_phase2_approval",
+    "title": "금융위원회, 한국은행 프로젝트 한강 2단계 혁신금융서비스 5건 의결",
+    "eventDate": "2026-07-15",
+    "summary": "프로젝트 한강 참여 은행에 경남·iM뱅크 추가(총 9개행), 지갑 수 50만개 및 개인간 송금 기능, 전기차 보조금 300억원 직접지급 특례 부여.",
+    "relatedOrgIds": ["org_bok", "org_fsc", "org_kb_bank", "org_shinhan_bank", "org_hana_bank"],
+    "relatedProjectIds": ["proj_bok_hangang_2"],
+    "sourceIds": ["src_fsc_87338"]
+  },
+  {
+    "id": "evt_kb_canton_mou",
+    "title": "KB증권-캔톤 재단-웨이브릿지 분산원장 자본시장 인프라 업무협약 체결",
+    "eventDate": "2026-06-04",
+    "summary": "KB증권이 캔톤 네트워크를 활용해 국내 자본시장 거래에 분산원장 인프라를 적용하고 국내외 유통 표준 모델을 설계하는 3자 MOU 체결.",
+    "relatedOrgIds": ["org_kb_sec", "org_canton", "org_wavebridge"],
+    "relatedProjectIds": ["proj_kb_canton"],
+    "sourceIds": ["src_kb_canton_mou"]
+  },
+  {
+    "id": "evt_sto_law_pass",
+    "title": "토큰증권 도입 전자증권법·자본시장법 개정안 국회 본회의 통과",
+    "eventDate": "2026-01-15",
+    "summary": "분산원장을 전자등록계좌부로 인정하고 발행인 계좌관리기관 및 투자계약증권 유통을 허용하는 법률안이 국회 본회의를 최종 통과함 (시행일: 2027.2.4).",
+    "relatedOrgIds": ["org_fsc", "org_ksd"],
+    "relatedProjectIds": ["proj_kb_sto_v2", "proj_mirae_buidl_mmf", "proj_kdx_consortium"],
+    "sourceIds": ["src_fsc_86064"]
+  }
+]

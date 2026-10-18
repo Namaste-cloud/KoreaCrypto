@@ -1,0 +1,188 @@
+[
+  {
+    "id": "pol_sto_law_enact",
+    "title": "토큰증권 도입 및 투자계약증권 유통을 위한 「전자증권법」·「자본시장법」 개정안",
+    "shortTitle": "토큰증권(STO) 제도화 법안",
+    "authority": "금융위원회 / 국회",
+    "policyType": "법률",
+    "implementationStatus": "확정·시행 전",
+    "currentStage": "공포 완료 (시행 대기)",
+    "stageHistory": [
+      { "stage": "정무위 의결", "date": "2025-11-27", "note": "22대 국회 정무위원회 통과" },
+      { "stage": "법사위 의결", "date": "2025-12-03", "note": "법제사법위원회 체계·자구 심사 통과" },
+      { "stage": "본회의 의결", "date": "2026-01-15", "note": "국회 본회의 최종 가결 (찬성 압도적)" },
+      { "stage": "공포", "date": "2026-02-03", "note": "법률 공포 (부칙: 공포 후 1년 경과한 날부터 시행)" },
+      { "stage": "시행 예정", "date": "2027-02-04", "note": "본격 법률 시행일" }
+    ],
+    "nextSchedule": {
+      "title": "법률 시행령 및 금융투자업규정 등 하위법규 심사 및 국무회의 의결",
+      "date": "2026년 11월 ~ 12월"
+    },
+    "keyContent": "1) 전자증권법: 블록체인 등 '분산원장'을 법적 전자등록계좌부로 인정, 최저자기자본 40억원 등 요건을 갖춘 '발행인 계좌관리기관' 신설\n2) 자본시장법: 투자계약증권의 증권사(투자매매·중개업자) 유통 허용, 다자간 매매체결(장외거래소) 인가 체계 정비\n※ 유의: 토큰증권은 증권의 '형식'일 뿐이므로 자본시장법상 증권 규제(공모신고서, 투자중개업 라이선스)는 전면 적용됨.",
+    "applicableTargets": "증권사, 은행, 조각투자 발행사, 전자등록기관(예탁원), 일반 및 전문투자자",
+    "sourceUrl": "https://www.fsc.go.kr/no010101/86064",
+    "sourceEvidenceId": "src_fsc_86064",
+    "lastVerifiedAt": "2026-10-12",
+    "relatedProjectLinks": [
+      { "projectId": "proj_kb_sto_v2", "impactType": "직접 적용", "description": "KB STO V2 플랫폼이 전자등록계좌부로 법적 효력을 갖는 직접적 근거 법률" },
+      { "projectId": "proj_mirae_buidl_mmf", "impactType": "직접 적용", "description": "사모 MMF의 분산원장 전자등록 허용 근거" },
+      { "projectId": "proj_tessa_stockkeeper_ixonet", "impactType": "직접 적용", "description": "발행인 계좌관리기관 등록을 통해 증권사 없이 직발행할 수 있는 법적 근거" },
+      { "projectId": "proj_kdx_consortium", "impactType": "직접 적용", "description": "투자계약증권 및 신탁수익증권 장외 유통 법적 기반" }
+    ]
+  },
+  {
+    "id": "pol_sto_subreg_2026",
+    "title": "토큰증권 관련 전자증권법·자본시장법 하위법규 개정안 입법예고",
+    "shortTitle": "토큰증권 하위법규(시행령·규정) 입법예고",
+    "authority": "금융위원회",
+    "policyType": "시행령·감독규정",
+    "implementationStatus": "추진 중",
+    "currentStage": "입법예고",
+    "stageHistory": [
+      { "stage": "입법예고 실시", "date": "2026-10-02", "note": "예고기간: 2026.10.02 ~ 11.11 (40일간)" }
+    ],
+    "nextSchedule": {
+      "title": "입법예고 의견수렴 종료 및 규제개혁위원회·법제처 심사",
+      "date": "2026-11-11"
+    },
+    "keyContent": "1) 토큰화 가능 증권 범위: 조각투자 외 주식, 채권, 펀드 등 정형증권 공식 포함\n2) 분산원장 요건: 전자등록기관(예탁원) 외 2개 이상의 계좌관리기관 참여 필수, 분산원장 이용 대가(직접 가스비) 수취 금지\n3) 발행인 계좌관리기관 등록요건: 최저자기자본 40억원, 계좌관리 1명, 내부통제 1명, 전산 2명 전문인력\n4) 장외거래소 인가 신설: 비상장주식, 신탁수익증권 외 채무증권 인가단위(2o-11-1) 신설\n5) 일반투자자 거래한도: 장외거래소별 연간 순매수(매수-매도) 1억원 제한",
+    "applicableTargets": "금융투자업자, 조각투자 발행사, 장외거래소 신청사",
+    "sourceUrl": "https://www.fsc.go.kr/no010101/87838",
+    "sourceEvidenceId": "src_fsc_87838",
+    "lastVerifiedAt": "2026-10-12",
+    "relatedProjectLinks": [
+      { "projectId": "proj_kb_sto_v2", "impactType": "직접 적용", "description": "분산원장 2개 이상 계좌관리기관 참여 요건 및 가스비 금지 조항 대응 필수" },
+      { "projectId": "proj_kb_securitize_optimism", "impactType": "향후 영향 가능", "description": "퍼블릭 L2 활용 시 직접 대가 지급 금지 요건 해석 쟁점 발생" },
+      { "projectId": "proj_kdx_consortium", "impactType": "직접 적용", "description": "일반투자자 연간 1억원 한도 관리 시스템 구축 의무" }
+    ]
+  },
+  {
+    "id": "pol_sto_policy_202609",
+    "title": "토큰증권 정책방향 발표 (민·관 합동 토큰증권 협의체 3차 회의)",
+    "shortTitle": "정부 토큰증권 3단계 로드맵 정책방향",
+    "authority": "금융위원회 (민·관 합동 토큰증권 협의체)",
+    "policyType": "정책 발표",
+    "implementationStatus": "추진 중",
+    "currentStage": "정책 확정 및 로드맵 발표",
+    "stageHistory": [
+      { "stage": "1차 Kick-off 회의", "date": "2026-03-04", "note": "3대 정책방향(혁신·투자자보호·미래준비) 제시" },
+      { "stage": "2차 회의", "date": "2026-05-15", "note": "인프라·발행·유통 분과별 세부 과제 조율" },
+      { "stage": "3차 회의(정책방향 발표)", "date": "2026-09-04", "note": "정형증권 포함 및 3단계 로드맵 종합 발표" }
+    ],
+    "nextSchedule": {
+      "title": "조각투자 모범규준 제정 및 한국거래소 장내 파일럿 세부안 발표",
+      "date": "2026년 4분기"
+    },
+    "keyContent": "1) 3단계 로드맵:\n - 1단계(2027.2): 기관 전용 사모MMF·사채 토큰화, 비상장주식 신탁방식 토큰화, 공모 조각투자 허용\n - 2단계: 공모 증권 토큰화 확대\n - 3단계: 스테이블코인을 결제수단으로 하는 온체인(on-chain) 결제 인프라 구축\n2) 조각투자 모범규준: 기초자산 집합화(Pooling) 조건부 허용, 1인당 청약한도 표준 예시(3,000만원 또는 발행금액 5% 중 적은 금액)\n3) 한국거래소 중심 장내시장 상장주식 토큰화 파일럿 추진",
+    "applicableTargets": "전 증권사, 자산운용사, 한국거래소, 한국예탁결제원",
+    "sourceUrl": "https://www.fsc.go.kr/no010101/87650",
+    "sourceEvidenceId": "src_fsc_87650",
+    "lastVerifiedAt": "2026-10-12",
+    "relatedProjectLinks": [
+      { "projectId": "proj_mirae_buidl_mmf", "impactType": "직접 적용", "description": "1단계 사모 MMF 토큰화 정책 공식화에 따른 직접 수혜" },
+      { "projectId": "proj_kb_canton", "impactType": "향후 영향 가능", "description": "3단계 온체인 결제 및 메인넷 상호운용 기술 검토 권고" }
+    ]
+  },
+  {
+    "id": "pol_stablecoin_framework_2026",
+    "title": "디지털자산기본법(가상자산 2단계 입법) 및 원화 스테이블코인 규율 정부안",
+    "shortTitle": "디지털자산기본법 & 원화 스테이블코인 정부안",
+    "authority": "금융위원회 / 재정경제부 / 한국은행",
+    "policyType": "입법 추진",
+    "implementationStatus": "추진 중",
+    "currentStage": "정부안 막바지 협의 및 국회 제출 조율",
+    "stageHistory": [
+      { "stage": "가상자산위 논의", "date": "2026-03-04", "note": "디지털자산기본법 정부 검토안 논의 (무과실 손해배상책임 등)" },
+      { "stage": "정부안 조율 확인", "date": "2026-10-01", "note": "금융위원장 국정감사 발언: '준비 완료, 관계기관 막바지 협의'" }
+    ],
+    "nextSchedule": {
+      "title": "정부-당정 협의 후 디지털자산기본법 정부안 국회 정무위원회 제출",
+      "date": "2026년 4분기 잠정"
+    },
+    "keyContent": "1) 원화 스테이블코인 발행 자격: 금융당국-한은 협의안은 '은행 중심 컨소시엄(은행 지분 50%+1 이상)' 모델에 무게 vs 핀테크·빅테크는 민간 개방 요구 대립\n2) 이용자 보호: 발행사 준비자산 분리 보관 및 도산절연 장치 의무화, 1:1 법정화폐 상환청구권 법제화\n3) 가상자산거래소 규율: 신고제에서 인가제 전환 검토, 대주주 지분 분산 및 내부통제 강화\n※ 유의: 아직 국회 통과 전 단계이므로 언론 전망을 정부의 확정 정책으로 간주하지 않음.",
+    "applicableTargets": "은행, 카드사, 핀테크 기업, 가상자산거래소",
+    "sourceUrl": "https://www.fsc.go.kr/no010101/86373",
+    "sourceEvidenceId": "src_fsc_86373",
+    "lastVerifiedAt": "2026-10-12",
+    "relatedProjectLinks": [
+      { "projectId": "proj_hana_stablecoin_consortium", "impactType": "직접 적용", "description": "은행 주도 컨소시엄 요건 확정 여부에 따라 SPC 인가 성패 결정" },
+      { "projectId": "proj_eugene_beatoz_poc", "impactType": "향후 영향 가능", "description": "스테이블코인을 증권 청약 결제수단으로 공인할지 여부 결정" }
+    ]
+  },
+  {
+    "id": "pol_fsc_hangang2_sandbox",
+    "title": "한국은행 디지털화폐(CBDC) 시스템 내 예금토큰 기반 지급결제 테스트 2단계 혁신금융서비스 지정",
+    "shortTitle": "프로젝트 한강 2단계 규제특례(혁신금융서비스)",
+    "authority": "금융위원회",
+    "policyType": "규제특례",
+    "implementationStatus": "시행 중",
+    "currentStage": "지정 의결 및 실증 진행",
+    "stageHistory": [
+      { "stage": "1단계 지정", "date": "2024-10-01", "note": "7개 시중은행 지정" },
+      { "stage": "2단계 신규 및 변경 지정", "date": "2026-07-15", "note": "경남·iM뱅크 신규 지정, 기존 7개행 지정내용 변경 (의결 87338호)" }
+    ],
+    "nextSchedule": {
+      "title": "2단계 실거래 테스트 중간 평가 및 후속 결과 보고",
+      "date": "2027년 상반기"
+    },
+    "keyContent": "은행법상 예금 수신 및 전자금융거래법상 규제 특례 부여. 지갑 수 최대 50만 개 확대, 개인 1회 100만원/1일 500만원 송금 기능 신설, 보유한도 1,000만원 상향, 전기차 충전 보조금 등 국고금 300억원 직접지급 허용",
+    "applicableTargets": "한국은행 및 9개 참여 은행",
+    "sourceUrl": "https://www.fsc.go.kr/no010101/87338",
+    "sourceEvidenceId": "src_fsc_87338",
+    "lastVerifiedAt": "2026-07-15",
+    "relatedProjectLinks": [
+      { "projectId": "proj_bok_hangang_2", "impactType": "직접 적용", "description": "2단계 실증 운영의 직접적 법적 규제특례 근거" }
+    ]
+  },
+  {
+    "id": "pol_ats_preapproval_202602",
+    "title": "수익증권 장외거래중개업(조각투자 장외거래소) 예비인가 의결",
+    "shortTitle": "조각투자 장외거래소 2개사 예비인가",
+    "authority": "금융위원회 (금융감독원 외부평가위원회)",
+    "policyType": "감독 지침과 해석",
+    "implementationStatus": "시행 중",
+    "currentStage": "예비인가 승인 (본인가 심사 대기)",
+    "stageHistory": [
+      { "stage": "인가운영방안 발표", "date": "2025-09-04", "note": "최대 2개사 신규 인가 원칙 확정" },
+      { "stage": "신청 접수", "date": "2025-10-31", "note": "KDX, 루센트블록, NXT컨소시엄 3개사 신청" },
+      { "stage": "예비인가 의결", "date": "2026-02-13", "note": "KDX 및 NXT컨소시엄 2개사 예비인가 의결" }
+    ],
+    "nextSchedule": {
+      "title": "물적설비·인력 구비 후 금융위원회 본인가 의결",
+      "date": "2026년 하반기"
+    },
+    "keyContent": "비금전신탁 수익증권을 거래할 수 있는 장외거래중개업 스몰라이센스(2o-14-1, 자본금 60억, 전산전문인력 8명 등) 부여. 3개 신청사 중 KDX와 NXT컨소시엄 선정(단, NXT는 기술탈취 공정위 조사 개시 시 본인가 중단 조건부).",
+    "applicableTargets": "KDX컨소시엄, NXT컨소시엄, 조각투자 발행사",
+    "sourceUrl": "https://www.fsc.go.kr/no010101/86295",
+    "sourceEvidenceId": "src_fsc_86295",
+    "lastVerifiedAt": "2026-02-13",
+    "relatedProjectLinks": [
+      { "projectId": "proj_kdx_consortium", "impactType": "직접 적용", "description": "KDX 유통시장 설립의 공식 법적 인가 단계" }
+    ]
+  },
+  {
+    "id": "pol_virtual_asset_comm_3rd",
+    "title": "법인의 단계적인 가상자산시장 참여 로드맵 발표 (제3차 가상자산위원회)",
+    "shortTitle": "법인의 가상자산시장 참여 로드맵",
+    "authority": "금융위원회 (가상자산위원회)",
+    "policyType": "정책 발표",
+    "implementationStatus": "추진 중",
+    "currentStage": "상반기 완료, 하반기 시범허용 단계",
+    "stageHistory": [
+      { "stage": "1차 회의 과제 선정", "date": "2024-11-06", "note": "법인 참여 논의 착수" },
+      { "stage": "3차 회의 로드맵 발표", "date": "2025-02-13", "note": "단계적 허용 로드맵 확정" }
+    ],
+    "nextSchedule": {
+      "title": "자본시장법상 전문투자자 상장사·등록법인(약 3,500개사) 매매 계좌 Pilot Test 세부 가이드라인",
+      "date": "2026년 진행 중"
+    },
+    "keyContent": "1) 상반기: 법집행기관, 비영리법인·대학, 가상자산거래소의 현금화 목적 매도 실명계좌 허용 완료\n2) 하반기: 금융회사를 제외한 상장회사 및 전문투자자 등록법인 약 3,500개사에 대해 투자·재무 목적 매매 실명계좌 시범허용\n3) 금융회사 직접 매매는 시스템 리스크 우려로 신중 기조 유지, 대신 토큰증권(STO) 및 블록체인 인프라 투자 확대로 유도",
+    "applicableTargets": "상장사, 전문투자자 법인, 은행, 가상자산거래소",
+    "sourceUrl": "https://www.fsc.go.kr/no010101/84000",
+    "sourceEvidenceId": "src_fsc_84000",
+    "lastVerifiedAt": "2026-03-04",
+    "relatedProjectLinks": [
+      { "projectId": "proj_mirae_buidl_mmf", "impactType": "직접 적용", "description": "법인 고객의 가상자산 및 토큰화 펀드 유입 활성화 전제 조건" }
+    ]
+  }
+]

@@ -1,0 +1,1181 @@
+[
+  {
+    "id": "proj_kb_sto_v2",
+    "name": "KB증권 차세대 토큰증권 플랫폼 'KB STO V2' 및 AI 결합 고도화",
+    "shortName": "KB STO V2",
+    "businessArea": "토큰증권(STO)",
+    "purpose": "조각투자를 넘어 회사채, 사모 MMF, 신탁수익증권 등 정형증권 온체인화 수용 및 에이전틱 AI를 활용한 상품 심사·발행 자동화 인프라 구축",
+    "targetAssets": "회사채, 사모 MMF, 비상장주식 신탁수익증권, 부동산·미술품 조각투자",
+    "targetClients": "기관투자자 및 전문투자자, 일반투자자(공모 조각투자)",
+    "currentStage": "PoC",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2023-03-08",
+        "evidenceId": "src_kb_v1_hist"
+      },
+      {
+        "stage": "PoC",
+        "date": "2026-06-09",
+        "evidenceId": "src_kb_v2_1cono"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "KB STO V2 시스템 PoC 및 AI 에이전트 결합 검증",
+        "date": "2026년 하반기"
+      },
+      {
+        "title": "하위법규 확정 후 전자등록기관(예탁원) 연계 테스트",
+        "date": "2026년 4분기 ~ 2027년 1월"
+      },
+      {
+        "title": "전자증권법·자본시장법 개정안 시행에 맞춘 정식 오픈",
+        "date": "2027-02-04"
+      }
+    ],
+    "recentProgress": "2026년 6월 AI·디지털본부 주도로 'KB STO V2' 개발 계획 및 스마트컨트랙트·에이전틱 AI 결합 PoC 착수 공식화",
+    "businessSignificance": {
+      "verifiedFacts": "KB증권이 기존 조각투자용 시스템에서 회사채·펀드 등 전통 금융자산 온체인화로 전략을 확장하고 자체 PoC를 진행 중임. 에이전틱 AI를 접목해 발행 및 청약 프로세스를 자동화하는 구조를 테스트함.",
+      "analysis": "조각투자 중심의 스몰마켓에서 벗어나 기관 자본이 유입되는 사모 MMF 및 채권 온체인 시장에서 주도권을 잡기 위한 선제적 플랫폼 투자로 평가됨.",
+      "unverifiedAspects": "구체적인 자체 메인넷 합의 알고리즘 사양, 실제 AI 도입에 따른 인력 및 비용 감축 비율은 대외 미공개 상태임."
+    },
+    "remainingIssues": "2027년 2월 전자등록기관(한국예탁결제원)과의 분산원장 전산 연계 요건 충족 및 하위법규상 분산원장 다수 참여자(2개 이상 계좌관리기관) 구성 규제 적격성 확보",
+    "networks": [
+      {
+        "name": "KB 프라이빗 원장(자체)",
+        "type": "허가형 블록체인",
+        "status": "테스트"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_kb_sec",
+        "role": "주관",
+        "participationType": "개별"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_law_enact",
+      "pol_sto_subreg_2026"
+    ],
+    "lastVerifiedAt": "2026-10-12",
+    "isSample": false
+  },
+  {
+    "id": "proj_kb_canton",
+    "name": "KB증권-캔톤 재단-웨이브릿지 분산원장 자본시장 인프라 협력",
+    "shortName": "KB-캔톤 분산원장 협력",
+    "businessArea": "기관용 블록체인 및 관련 인프라",
+    "purpose": "글로벌 기관용 분산원장인 캔톤 네트워크를 국내 자본시장 거래에 적용하고, 국내 금융자산 기초 토큰화 상품의 해외 유통 인프라 표준 모델 공동 검토",
+    "targetAssets": "국내 금융자산(채권, 펀드 등), 글로벌 연계 토큰화 자산",
+    "targetClients": "국내외 기관투자자",
+    "currentStage": "발표·협약",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2026-06-04",
+        "evidenceId": "src_kb_canton_mou"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "분산원장 기반 결제·정산 모델 세부 추진일정 확정",
+        "date": "2026년 하반기"
+      },
+      {
+        "title": "국내 규제 적격성 검토 및 글로벌 노드 연결 PoC",
+        "date": "2027년 상반기 잠정"
+      }
+    ],
+    "recentProgress": "2026년 6월 4일 여의도 본사에서 3자 업무협약(MOU) 체결 완료 및 분산원장 기반 자본시장 거래 표준 설계 공동 검토 착수",
+    "businessSignificance": {
+      "verifiedFacts": "KB증권이 국내 증권사 최초로 캔톤 재단 및 VASP 라이선스 보유사 웨이브릿지와 협약을 맺고 골드만삭스·DTCC 등이 참여하는 글로벌 기관 블록체인과의 연계를 선언함.",
+      "analysis": "국내 자본시장 상품을 글로벌 기관 네트워크로 수출하거나 해외 우량 토큰화 자산을 국내 기관에 공급하는 국경간(cross-border) 유통 파이프라인 선점 목적.",
+      "unverifiedAspects": "실제 거래 및 정산 테스트 착수 여부와 금융당국의 해외 분산원장 노드 연계 허용 가이드라인 적용 여부는 추가 확인 필요."
+    },
+    "remainingIssues": "국내 자본시장법 및 전자증권법상 외국 분산원장 인프라를 통한 권리 이전 인정 여부, 외환거래법상 크로스보더 결제 규제",
+    "networks": [
+      {
+        "name": "Canton Network",
+        "type": "허가형/기관용 상호운용 네트워크",
+        "status": "개념검토"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_kb_sec",
+        "role": "주관(자본시장 거래 표준 설계 및 상품 공급)",
+        "participationType": "공동사업협약"
+      },
+      {
+        "orgId": "org_canton",
+        "role": "거버넌스 및 프로토콜 지원",
+        "participationType": "공동사업협약"
+      },
+      {
+        "orgId": "org_wavebridge",
+        "role": "디지털자산 결제 및 정산 인프라 제공",
+        "participationType": "공동사업협약"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_policy_202609",
+      "pol_sto_subreg_2026"
+    ],
+    "lastVerifiedAt": "2026-10-12",
+    "isSample": false
+  },
+  {
+    "id": "proj_kb_securitize_optimism",
+    "name": "KB증권-시큐리타이즈-옵티미즘 재단 기관 토큰증권 사업 협력",
+    "shortName": "KB-시큐리타이즈-옵티미즘 협력",
+    "businessArea": "자산 토큰화",
+    "purpose": "국내 우량 자산 기반 토큰증권 상품 설계 및 글로벌 토큰화 인프라(시큐리타이즈)와 확장성 네트워크(옵티미즘 L2)를 결합한 기관 발행·공급 체계 구축",
+    "targetAssets": "사모 MMF, 채권, 실물 기반 증권",
+    "targetClients": "국내외 기관투자자",
+    "currentStage": "발표·협약",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2026-09-21",
+        "evidenceId": "src_kb_securitize_yna"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "토큰화 상품 공급 및 인프라 설계 실무 협의",
+        "date": "2026년 4분기"
+      },
+      {
+        "title": "제도 시행 시점에 맞춘 1단계 사모 증권 토큰화 연동",
+        "date": "2027년 1분기"
+      }
+    ],
+    "recentProgress": "2026년 9월 21일 3사 간 업무협약(MOU) 체결 완료 및 9월 23일 공식 발표",
+    "businessSignificance": {
+      "verifiedFacts": "블랙록 BUIDL을 발행·운영한 글로벌 1위 토큰화 플랫폼 시큐리타이즈 및 주요 이더리움 L2인 옵티미즘과 국내 대형 증권사가 손을 잡은 최초의 사례.",
+      "analysis": "금융위원회가 2026년 9월 토큰증권 정책방향에서 사모 MMF 및 채권 토큰화를 1단계로 허용한 것에 발맞춰, 글로벌 시장에서 검증된 BUIDL형 발행 아키텍처를 도입하려는 전략.",
+      "unverifiedAspects": "옵티미즘 퍼블릭 L2 메인넷을 직접 사용할지, 또는 옵티미즘 OP 스택 기반의 기관용 허가형 L2 롤업을 별도 구축할지 여부는 공식 미확인."
+    },
+    "remainingIssues": "국내 전자증권법 하위법규(2026.10 입법예고)상 '전자등록을 위한 분산원장 이용 시 직접적 대가 지급 금지(가스비 문제)' 규정과의 퍼블릭 L2 호환성 해결 방안",
+    "networks": [
+      {
+        "name": "Optimism (OP Stack)",
+        "type": "이더리움 Layer-2 / 롤업",
+        "status": "개념검토"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_kb_sec",
+        "role": "금융상품 인수·발행·판매 및 기관 고객 확보",
+        "participationType": "공동사업협약"
+      },
+      {
+        "orgId": "org_securitize",
+        "role": "토큰화 발행 및 생애주기 관리 인프라 제공",
+        "participationType": "공동사업협약"
+      },
+      {
+        "orgId": "org_optimism",
+        "role": "블록체인 분산원장 네트워크 레이어 지원",
+        "participationType": "공동사업협약"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_policy_202609",
+      "pol_sto_subreg_2026"
+    ],
+    "lastVerifiedAt": "2026-10-12",
+    "isSample": false
+  },
+  {
+    "id": "proj_bok_hangang_2",
+    "name": "한국은행 디지털화폐(CBDC) 시스템 내 예금토큰 기반 지급결제 테스트 (프로젝트 한강 2단계)",
+    "shortName": "프로젝트 한강 2단계",
+    "businessArea": "예금토큰 및 CBDC",
+    "purpose": "중앙은행 기관용 CBDC와 연계된 은행 예금토큰을 활용하여 민간 결제, P2P 송금, 국고보조금 집행의 유용성과 결제완결성 검증",
+    "targetAssets": "상업은행 예금토큰, 기관용 도매 CBDC",
+    "targetClients": "일반 국민(최대 50만 명), 참여 가맹점, 소상공인, 보조금 수혜 기업",
+    "currentStage": "실증",
+    "stageHistory": [
+      {
+        "stage": "PoC",
+        "date": "2024-10-01",
+        "evidenceId": "src_hangang_pilot1"
+      },
+      {
+        "stage": "실증",
+        "date": "2026-07-15",
+        "evidenceId": "src_fsc_hangang2_approval"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "금융위 혁신금융서비스 2단계 지정 의결",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "전기차 충전인프라 국고보조금 300억원 예금토큰 집행 실증",
+        "date": "2026년 하반기"
+      },
+      {
+        "title": "9개 은행 연계 일반 국민 50만 명 대상 실거래 테스트 개시",
+        "date": "2026년 4분기 ~ 2027년"
+      }
+    ],
+    "recentProgress": "2026년 7월 금융위 정례회의에서 경남은행·iM뱅크가 신규 지정되고 기존 7개 은행(국민, 신한, 우리, 하나, 농협, 기업, 부산)의 지정내용이 변경되어 총 9개 은행 체제로 확대됨. 송금 기능 및 잔액 부족 시 자동 계좌 전환 기능 승인",
+    "businessSignificance": {
+      "verifiedFacts": "지갑 수가 10만 개에서 50만 개로 늘어나고 보유한도(지갑당 1,000만원, 누적 1억원) 및 송금 기능이 공식 허용됨. 보조금 전용 스마트컨트랙트 집행 실증이 포함됨.",
+      "analysis": "민간 스테이블코인 등장 전 은행권 디지털화폐의 표준 규격을 선점하고 국고금 정산 자동화 효과를 입증하려는 중앙은행-시중은행 연합 프로젝트.",
+      "unverifiedAspects": "실제 대형 가맹점 POS기 연동 일정 및 거래당 처리 지연시간(초당 거래건수 TPS) 상용 운영 수준 도달 여부는 최종 보고서 전까지 미확인."
+    },
+    "remainingIssues": "은행권의 기존 전산망 대비 트랜잭션 수수료 비용 구조, 예금자보호법 적용 범위 및 은행 간 송금 시 상호운용성 기술 표준화",
+    "networks": [
+      {
+        "name": "BOK-CBDC 분산원장",
+        "type": "허가형 컨소시엄 체인",
+        "status": "실증"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_bok",
+        "role": "주관 및 기관용 CBDC 발행·정산",
+        "participationType": "주관"
+      },
+      {
+        "orgId": "org_kb_bank",
+        "role": "예금토큰 발행 및 사용자 지갑·결제 연동",
+        "participationType": "실증참여(혁신금융서비스)"
+      },
+      {
+        "orgId": "org_shinhan_bank",
+        "role": "예금토큰 발행 및 사용자 지갑·결제 연동",
+        "participationType": "실증참여(혁신금융서비스)"
+      },
+      {
+        "orgId": "org_hana_bank",
+        "role": "예금토큰 발행 및 결제·송금 연동",
+        "participationType": "실증참여(혁신금융서비스)"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_fsc_hangang2_sandbox"
+    ],
+    "lastVerifiedAt": "2026-10-12",
+    "isSample": false
+  },
+  {
+    "id": "proj_bok_treasury_token",
+    "name": "한국은행 기관용 디지털화폐(CBDC) 기반 국채 토큰화 실증 시범사업",
+    "shortName": "국채 토큰화 실증사업",
+    "businessArea": "채권·펀드 등 자산 토큰화",
+    "purpose": "국채를 블록체인 기반 토큰화 형태로 발행·유통하고, 기관용 CBDC를 결제자산으로 활용해 배달대금 동시결제(DvP) 및 즉각적 결제완결성 확보",
+    "targetAssets": "대한민국 국고채",
+    "targetClients": "국채전문딜러(PD), 시중은행, 증권사 등 금융기관",
+    "currentStage": "PoC",
+    "stageHistory": [
+      {
+        "stage": "PoC",
+        "date": "2026-08-06",
+        "evidenceId": "src_bok_treasury_etnews"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "한국은행 디지털화폐실 내 '자산토큰화반' 신설",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "재정경제부·금융위·예탁원 간 관계기관 TF 구성",
+        "date": "2026년 4분기 예정"
+      },
+      {
+        "title": "국채 토큰화 실증 시범사업 본격 착수",
+        "date": "2027년"
+      }
+    ],
+    "recentProgress": "2026년 10월 12일 국회 재정경제기획위원회 국정감사 답변을 통해 2027년 실증사업에서 민간 스테이블코인 대신 중앙은행 기관용 CBDC를 결제자산으로 채택하고 네이티브 발행 방식을 검토 중임을 공식 확인",
+    "businessSignificance": {
+      "verifiedFacts": "국채 토큰화 결제수단으로 민간 스테이블코인 배제 방침을 확정함. 디지털화폐실 내 전담반을 두고 기술적 요건과 국채법·전자증권법 개정 소요를 분석 중임.",
+      "analysis": "금융 안정성과 국가 부채 관리의 핵심인 국채 시장에서 결제 리스크(헤어컷, 디페깅)를 원천 차단하고 중앙은행 화폐 중심의 통화 질서를 유지하려는 한은의 정책적 의지 반영.",
+      "unverifiedAspects": "실제 국채 발행 물량 규모와 기존 국고채 전자등록시스템(K-Bond)과의 병행 운영 여부는 TF 출범 후 결정 예정."
+    },
+    "remainingIssues": "국채법 개정 필요 여부, 장내 거래 시 한국거래소와의 시스템 연계, 글로벌 WGBI(세계국채지수) 편입에 따른 외국인 투자자의 토큰 국채 접근성 보장 문제",
+    "networks": [
+      {
+        "name": "BOK 자산토큰화 전용 원장",
+        "type": "허가형 분산원장",
+        "status": "테스트"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_bok",
+        "role": "주관 및 결제 CBDC 발행",
+        "participationType": "주관"
+      },
+      {
+        "orgId": "org_ksd",
+        "role": "국채 전자등록 및 총량관리 연계(예정)",
+        "participationType": "유관기관"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_policy_202609"
+    ],
+    "lastVerifiedAt": "2026-10-12",
+    "isSample": false
+  },
+  {
+    "id": "proj_mirae_buidl_mmf",
+    "name": "미래에셋증권 기관 전용 사모 MMF 온체인화 및 실시간 환매(T+0) 프로젝트",
+    "shortName": "미래에셋 BUIDL형 온체인 MMF",
+    "businessArea": "정형증권 온체인화",
+    "purpose": "글로벌 블랙록 BUIDL 구조를 벤치마크하여 기준가 1,000원 고정 및 일별 결산 토큰 배당 구조의 사모 MMF를 구축하고, T+0 즉시 환매와 온체인 레포(Repo) 담보 활용 생태계 조성",
+    "targetAssets": "사모 머니마켓펀드(MMF), 단기 국공채·CP",
+    "targetClients": "스테이블코인 보유 법인, 기관투자자",
+    "currentStage": "PoC",
+    "stageHistory": [
+      {
+        "stage": "PoC",
+        "date": "2026-10-01",
+        "evidenceId": "src_kbw_mirae_hankooki"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "사모 MMF 자체 모의 운용 및 T+0 환매 메커니즘 테스트",
+        "date": "2026년 진행 중"
+      },
+      {
+        "title": "토큰증권 1단계 제도 시행(2027.2)에 맞춘 기관 펀드 출시",
+        "date": "2027-02"
+      }
+    ],
+    "recentProgress": "2026년 10월 1일 코리아 블록체인 위크 2026에서 미래에셋증권 디지털자산본부장이 연내 자체 MMF 운용 테스트 결과와 T+0 구조, 온체인 레포 기획을 공식 공개",
+    "businessSignificance": {
+      "verifiedFacts": "비정형 조각투자가 아닌 정형증권(사모MMF)에 집중하는 전략을 공식화함. 시간 단위 초단기 자금 운용 및 환매 없는 담보대출(온체인 레포) 모델 제시.",
+      "analysis": "법인의 가상자산 시장 참여 및 스테이블코인 활성화 시 유휴 법인 자금을 단기 금융상품으로 흡수할 수 있는 가장 유력한 기관용 수익모델.",
+      "unverifiedAspects": "실제 위탁운용을 맡을 계열 운용사(미래에셋자산운용)와의 펀드 설정 약관 인가 추진 여부는 미공개."
+    },
+    "remainingIssues": "자본시장법상 펀드 환매 주기 규정 및 시가평가 원칙과의 정합성, 금융투자협회 펀드 코드 부여 체계와의 분산원장 연동",
+    "networks": [
+      {
+        "name": "미래에셋 컨소시엄 체인(준비중)",
+        "type": "허가형 블록체인",
+        "status": "테스트"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_mirae_sec",
+        "role": "주관 및 펀드 토큰화 구조 설계",
+        "participationType": "개별"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_policy_202609",
+      "pol_sto_subreg_2026"
+    ],
+    "lastVerifiedAt": "2026-10-01",
+    "isSample": false
+  },
+  {
+    "id": "proj_shinhan_canton_governance",
+    "name": "신한금융그룹-캔톤 네트워크 거버넌스 참여 및 신한자산운용 슈퍼 밸리데이터 구축",
+    "shortName": "신한 캔톤 토큰화 금융",
+    "businessArea": "기관용 블록체인 및 관련 인프라",
+    "purpose": "글로벌 기관용 캔톤 네트워크의 거버넌스 및 핵심 노드(슈퍼 밸리데이터) 역할을 확보하여, 그룹사(은행 결제·정산, 증권 토큰화 유통, 운용 RWA) 역량을 연계한 글로벌 토큰화 금융 구축",
+    "targetAssets": "글로벌 및 국내 실물연계자산(RWA), 토큰화 펀드",
+    "targetClients": "글로벌 및 국내 기관투자자",
+    "currentStage": "실증",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2026-06-15",
+        "evidenceId": "src_shinhan_canton_mou"
+      },
+      {
+        "stage": "실증",
+        "date": "2026-09-14",
+        "evidenceId": "src_shinhan_superval_enews"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "디지털에셋 지분 투자 완료(신한증권·벤처투자)",
+        "date": "2026-07"
+      },
+      {
+        "title": "신한자산운용 캔톤 네트워크 '슈퍼 밸리데이터' 최종 승인",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "그룹 회장-디지털에셋 CEO 면담 및 계열사 연계 확대",
+        "date": "2026-09-29"
+      }
+    ],
+    "recentProgress": "2026년 9월 14일 신한자산운용이 국내 금융사 최초로 캔톤 네트워크 슈퍼 밸리데이터로 최종 승인받았으며, 9월 29일 진옥동 회장이 유발 루즈 디지털에셋 대표와 회동하여 은행·증권·운용 연계 확대 합의",
+    "businessSignificance": {
+      "verifiedFacts": "국내 금융그룹 중 최초로 글로벌 프라이빗 네트워크의 핵심 밸리데이터 지위를 공식 확보하고 지분 투자까지 집행함. 가상자산 보유 없이 인프라 운영 및 거버넌스 참여 가능.",
+      "analysis": "해외 대형 운용사(골드만, BNP 등)와의 직접 연결 통로를 확보함으로써 추후 크로스보더 토큰화 펀드 유통에서 타 금융그룹 대비 한발 앞선 네트워크 효과 보유.",
+      "unverifiedAspects": "실제 운용 펀드의 온체인 테스트 발행 규모 및 밸리데이터 노드 유지에 따른 연간 인프라 운영비는 비공개."
+    },
+    "remainingIssues": "금융회사 전산설비의 국외 위탁 및 클라우드 이용 관련 금융감독원 인허가 및 보안성 검토 완료 여부",
+    "networks": [
+      {
+        "name": "Canton Network",
+        "type": "기관용 프라이버시 블록체인",
+        "status": "실증"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_shinhan_fg",
+        "role": "그룹 총괄",
+        "participationType": "지분투자/협약"
+      },
+      {
+        "orgId": "org_shinhan_sec",
+        "role": "토큰화 자산 유통 및 전략적 투자",
+        "participationType": "투자/참여"
+      },
+      {
+        "orgId": "org_canton",
+        "role": "네트워크 운영 및 프로토콜 라이선스",
+        "participationType": "파트너"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_policy_202609"
+    ],
+    "lastVerifiedAt": "2026-09-29",
+    "isSample": false
+  },
+  {
+    "id": "proj_hana_stablecoin_consortium",
+    "name": "하나금융그룹 주도 원화 스테이블코인 컨소시엄 (SPC 설립 추진)",
+    "shortName": "하나 원화 스테이블코인 연합",
+    "businessArea": "스테이블코인",
+    "purpose": "디지털자산기본법 제정 및 원화 스테이블코인 제도화에 대응하여 금융지주·지방은행·저축은행 공동 출자로 특수목적회사(SPC)를 설립하고 전국 단위 유통망 및 결제 생태계 선점",
+    "targetAssets": "원화 기반 법정화폐 담보형 스테이블코인(가칭 KRWH 등)",
+    "targetClients": "일반 소비자, 소상공인, 기업 간 결제, 지역화폐 이용자",
+    "currentStage": "발표·협약",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2026-01-21",
+        "evidenceId": "src_hana_stable_pressman"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "BNK·iM·SC제일·OK저축은행 등과 다자간 협약 체결",
+        "date": "2026-01"
+      },
+      {
+        "title": "유진투자증권 등 참여사 추가 확장",
+        "date": "2026-06 ~ 09"
+      },
+      {
+        "title": "디지털자산기본법 통과 후 공동 출자 SPC 설립",
+        "date": "법 통과 후 즉시"
+      }
+    ],
+    "recentProgress": "4대 금융지주 중 최초로 컨소시엄을 공식화하고 부산(BNK), 대구(iM), 충청(OK) 등 전국 거점 금융기관을 규합하여 결제·유통 인프라 설계 진행 중",
+    "businessSignificance": {
+      "verifiedFacts": "발행 라이선스가 미확정된 상태에서 4대 금융지주 중 유일하게 다자간 법적 계약을 체결하고 공동 SPC 모델을 대외 천명함.",
+      "analysis": "금융당국이 검토 중인 '은행 중심(지분 50%+1) 발행' 규율 모델에 가장 최적화된 구도이며, 빅테크/핀테크 단독 발행에 대항하는 금융권 연합 전선 구축.",
+      "unverifiedAspects": "참여사별 구체적 지분율, 준비자산 분리 보관 신탁 은행 지정 등은 법안 확정 전까지 유동적."
+    },
+    "remainingIssues": "디지털자산기본법 정부안 및 국회 논의 결과(은행 독점 발행 vs 핀테크 개방)와 은행법상 타법인 출자 15% 한도 규제 적용 여부",
+    "networks": [
+      {
+        "name": "컨소시엄 허가형 원장(검토중)",
+        "type": "컨소시엄 블록체인",
+        "status": "개념검토"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_hana_fg",
+        "role": "주관",
+        "participationType": "컨소시엄 주관"
+      },
+      {
+        "orgId": "org_eugene_sec",
+        "role": "증권 결제 연계 참여",
+        "participationType": "컨소시엄 참여"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_stablecoin_framework_2026",
+      "pol_virtual_asset_comm_3rd"
+    ],
+    "lastVerifiedAt": "2026-10-12",
+    "isSample": false
+  },
+  {
+    "id": "proj_kdx_consortium",
+    "name": "한국거래소·키움증권 주도 조각투자 장외거래소(KDX 컨소시엄)",
+    "shortName": "KDX 조각투자 장외거래소",
+    "businessArea": "거래·중개",
+    "purpose": "신탁수익증권 장외거래중개업 인가를 받아 다양한 조각투자(부동산, 미술품 등)의 통합 장외 유통시장을 개설하여 공정한 시장가격 형성 및 거래 유동성 제공",
+    "targetAssets": "비금전신탁 수익증권(부동산, 미술품 등)",
+    "targetClients": "일반투자자(연간 순매수 1억원 한도), 전문투자자",
+    "currentStage": "제한적 서비스",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2025-10-31",
+        "evidenceId": "src_fsc_ats_apply"
+      },
+      {
+        "stage": "제한적 서비스",
+        "date": "2026-02-13",
+        "evidenceId": "src_fsc_ats_preapproval"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "금융위 정례회의 조각투자 장외거래중개업 예비인가 의결",
+        "date": "2026-02-13"
+      },
+      {
+        "title": "전산 설비 및 결제 연동 시스템 구축",
+        "date": "2026년 진행 중"
+      },
+      {
+        "title": "본인가 신청 및 정식 거래 개시",
+        "date": "2026년 4분기 ~ 2027년 초"
+      }
+    ],
+    "recentProgress": "2026년 2월 13일 금융위 정례회의에서 외부평가위원회 심사 결과 최고점을 받아 예비인가 승인을 획득함. 한국거래소, 키움증권, 교보생명, 카카오페이증권 및 20여개 증권사가 주주로 참여",
+    "businessSignificance": {
+      "verifiedFacts": "금융위가 신규 인가 개수를 2개로 제한한 경쟁에서 NXT컨소시엄과 함께 선정됨. 개별 샌드박스 사업자의 폐쇄적 유통채널을 통합하는 자본시장 인프라.",
+      "analysis": "기존 증권사들의 대규모 계좌 연계가 가능하여 조각투자 2차 유통시장의 유동성 흡수 가능성이 가장 높은 핵심 플랫폼.",
+      "unverifiedAspects": "실제 본인가 신청서 제출 완료 일자 및 초기 상장 증권 라인업은 본인가 시점 공개 예정."
+    },
+    "remainingIssues": "2026년 10월 입법예고된 일반투자자 연간 순매수 한도 1억원 규제 적용 시 초기 거래대금 위축 우려 극복",
+    "networks": [
+      {
+        "name": "KDX 매매체결 원장",
+        "type": "중앙집중식 체결 + 분산원장 연동",
+        "status": "구축중"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_kiwoom_sec",
+        "role": "공동 최대주주",
+        "participationType": "컨소시엄 주관"
+      },
+      {
+        "orgId": "org_krx",
+        "role": "주요 주주(5% 이상)",
+        "participationType": "컨소시엄 참여"
+      },
+      {
+        "orgId": "org_koscom",
+        "role": "인프라 연계 협력",
+        "participationType": "컨소시엄 참여"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_ats_preapproval_202602",
+      "pol_sto_subreg_2026"
+    ],
+    "lastVerifiedAt": "2026-02-13",
+    "isSample": false
+  },
+  {
+    "id": "proj_koscom_sto_platform",
+    "name": "코스콤 중소형 증권사 공동 토큰증권 발행 인프라 플랫폼",
+    "shortName": "코스콤 공동 STO 플랫폼",
+    "businessArea": "기관용 블록체인 및 관련 인프라",
+    "purpose": "독자 인프라 구축 여력이 부족한 중소형 증권사들을 위한 표준화된 분산원장 토큰증권 발행 인프라를 클라우드로 공동 제공하여 업계 중복 투자 방지 및 표준화 주도",
+    "targetAssets": "신탁수익증권, 사모사채, 비상장주식",
+    "targetClients": "참여 증권사 및 조각투자 발행사",
+    "currentStage": "실증",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2024-05-01",
+        "evidenceId": "src_koscom_init"
+      },
+      {
+        "stage": "실증",
+        "date": "2026-05-13",
+        "evidenceId": "src_koscom_woori_yna"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "LG CNS 연계 토큰증권 발행 플랫폼 구축 및 예탁원 테스트베드 완료",
+        "date": "2025"
+      },
+      {
+        "title": "우리투자증권 신규 참여 MOU 체결",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "하위법규 입법예고에 맞춘 다수 계좌관리기관 분산원장 노드 연동 실증",
+        "date": "2026년 4분기"
+      }
+    ],
+    "recentProgress": "우리투자증권, 다올투자증권, 교보증권, iM증권 등이 연이어 플랫폼 이용 협약을 체결함. 예탁결제원 총량관리 연계 및 스테이블코인 원자적 결제 PoC 완료",
+    "businessSignificance": {
+      "verifiedFacts": "대형사(KB·미래·신한 등 자체 구축)와 중소형사(코스콤 연합)의 양극화 구도 형성. 전자증권법 하위법규 요건인 '2개 이상 계좌관리기관 분산원장 참여'를 공동망으로 충족 가능.",
+      "analysis": "초기 구축비 100억원 이상이 드는 분산원장 인프라를 비용 분담함으로써 중소형 증권사의 시장 진입 장벽을 낮춤.",
+      "unverifiedAspects": "참여 증권사별 실제 과금 모델 및 노드 분산 호스팅 서버 구성 상세는 비공개."
+    },
+    "remainingIssues": "참여 증권사 간 차별화된 금융상품 설계 자율성 제한 여부 및 예탁원 메인넷과의 실시간 병목현상 검증",
+    "networks": [
+      {
+        "name": "코스콤 금융 분산원장",
+        "type": "허가형 블록체인(하이퍼레저 베수 기반)",
+        "status": "실증"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_koscom",
+        "role": "주관 인프라 운영사",
+        "participationType": "주관"
+      },
+      {
+        "orgId": "org_woori_sec",
+        "role": "플랫폼 이용 및 토큰증권 발행 참여",
+        "participationType": "플랫폼 이용협약"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_subreg_2026"
+    ],
+    "lastVerifiedAt": "2026-05-13",
+    "isSample": false
+  },
+  {
+    "id": "proj_meritz_ripple",
+    "name": "메리츠증권-리플 디지털자산 인프라 및 커스터디 전략적 파트너십",
+    "shortName": "메리츠-리플 전략적 제휴",
+    "businessArea": "디지털자산 수탁",
+    "purpose": "글로벌 '리플 커스터디(Ripple Custody)' 솔루션을 국내 자본시장에 접목하고, 규제 허용 범위 내에서 기관 대상 디지털자산 보관·토큰화 서비스 단계적 준비",
+    "targetAssets": "디지털자산, 토큰화 증권",
+    "targetClients": "법인 및 기관 고객",
+    "currentStage": "발표·협약",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2026-10-01",
+        "evidenceId": "src_meritz_ripple_ebn"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "서울 본사 전략적 파트너십 체결식(장원재 대표-모니카 롱 사장)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "국내 규제 적격성 검토 및 솔루션 기술 검증",
+        "date": "2026년 4분기 예정"
+      }
+    ],
+    "recentProgress": "2026년 10월 7일 언론 보도를 통해 10월 1일 여의도 본사에서 양사 최고경영진이 참석한 가운데 파트너십 체결이 공식 발표됨",
+    "businessSignificance": {
+      "verifiedFacts": "메리츠증권이 리플의 기관용 수탁 솔루션을 지목해 협약을 체결함. 국내 증권사와 리플 본사 간 직접적인 인프라 파트너십은 이례적임.",
+      "analysis": "금융지주 계열 경쟁사 대비 디지털자산 진출이 늦었던 메리츠증권이 글로벌 검증 솔루션을 직도입해 단숨에 기술 격차를 좁히려는 전략.",
+      "unverifiedAspects": "XRPL(리플 레저) 퍼블릭 네트워크 사용 여부와 라이선스 도입 비용 계약 조건은 대외비."
+    },
+    "remainingIssues": "금융기관의 가상자산 직접 수탁 금지 규제 완화 여부 및 망분리 규제 예외 인정 필요성",
+    "networks": [
+      {
+        "name": "Ripple Custody Framework",
+        "type": "엔터프라이즈 솔루션",
+        "status": "개념검토"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_meritz_sec",
+        "role": "국내 자본시장 적용 및 사업화 주관",
+        "participationType": "전략적 파트너십"
+      },
+      {
+        "orgId": "org_ripple",
+        "role": "수탁 및 토큰화 인프라 기술 제공",
+        "participationType": "기술 제공"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_virtual_asset_comm_3rd"
+    ],
+    "lastVerifiedAt": "2026-10-07",
+    "isSample": false
+  },
+  {
+    "id": "proj_tessa_stockkeeper_ixonet",
+    "name": "테사-스탁키퍼 조각투자 발행인 분산원장 'IXO-NET' 및 'IXTO' 공동 구축",
+    "shortName": "IXO-NET 조각투자 분산원장",
+    "businessArea": "토큰증권(STO)",
+    "purpose": "증권사 주도 컨소시엄에 의존하지 않고 실제 조각투자 발행 기업들이 주도하는 발행인 계좌관리기관 대응 토큰증권 분산원장 네트워크 구축",
+    "targetAssets": "미술품, 태양광 발전소, 한우 축산 자산",
+    "targetClients": "조각투자 발행사 및 일반투자자",
+    "currentStage": "실증",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2026-08-26",
+        "evidenceId": "src_tessa_ixonet_etoday"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "예탁원 테스트베드 참여 완료(2024)",
+        "date": "2024"
+      },
+      {
+        "title": "기본계약 체결 및 노드 참여 구조 설계 착수",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "2027년 2월 법 시행 즉시 적용 준비",
+        "date": "2027-02"
+      }
+    ],
+    "recentProgress": "2026년 8월 26일 기본계약 체결 완료. 공모관리 'IXO'와 계좌관리 'IXTO', 분산원장 'IXO-NET' 3계층 구조로 설계됨",
+    "businessSignificance": {
+      "verifiedFacts": "전자증권법 개정안의 '발행인 계좌관리기관' 제도를 직접 겨냥한 인프라 연합. 서로 다른 기초자산(미술품-한우)을 단일 네트워크에서 처리하는 구조 검증.",
+      "analysis": "발행사가 증권사에 종속되지 않고 독자적인 발행 수수료 구조를 확보하려는 시도.",
+      "unverifiedAspects": "발행인 계좌관리기관 법정 등록요건인 최저자기자본 40억원 요건 충족을 위한 유상증자 일정은 미공개."
+    },
+    "remainingIssues": "2026년 10월 입법예고된 발행인 계좌관리기관 요건(자기자본 40억원, 전산2명·내부통제1명·계좌관리1명) 인적·물적 설비 충족 부담",
+    "networks": [
+      {
+        "name": "IXO-NET",
+        "type": "발행인 컨소시엄 분산원장",
+        "status": "실증"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_tessa",
+        "role": "원장 개발 및 노드 운영",
+        "participationType": "공동구축"
+      },
+      {
+        "orgId": "org_stockkeeper",
+        "role": "발행 자산 연동 및 노드 참여",
+        "participationType": "공동구축"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_subreg_2026"
+    ],
+    "lastVerifiedAt": "2026-08-26",
+    "isSample": false
+  },
+  {
+    "id": "proj_kb_st_owners",
+    "name": "KB증권 토큰증권 사업 협력체 'ST 오너스(ST Owners)'",
+    "shortName": "KB ST 오너스",
+    "businessArea": "토큰증권(STO) 협의체",
+    "purpose": "자산 보유 기업, 조각투자 발행사, 블록체인 기술사를 아우르는 국내 최대 규모의 토큰증권 발행·유통 협력 생태계 구축",
+    "targetAssets": "미술품, 부동산, 음원, 한우, 실물 자산 및 신탁수익증권",
+    "targetClients": "조각투자 발행사, 기관 및 일반투자자",
+    "currentStage": "실증",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2023-03-08",
+        "evidenceId": "src_kb_owners_launch"
+      },
+      {
+        "stage": "실증",
+        "date": "2024-06-10",
+        "evidenceId": "src_kb_owners_expansion"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "ST 오너스 1차 결성 및 기술 PoC 착수",
+        "date": "2023-03"
+      },
+      {
+        "title": "발행인 계좌관리기관 연계 인프라 테스트",
+        "date": "2026년 진행 중"
+      }
+    ],
+    "recentProgress": "SK(주) C&C, 람다256 등 기술 파트너와 테사, 서울옥션블루, 펀블, 뮤직카우, 스탁키퍼 등 10여개 조각투자사가 참여 중",
+    "businessSignificance": {
+      "verifiedFacts": "2023년 3월 공식 발족하여 3년 이상 안정적으로 유지되어 온 KB증권의 핵심 STO 생태계.",
+      "analysis": "조각투자 발행사와의 독점적 계좌관리 관계를 다수 확보하여 제도 시행 시 초기 발행 물량 선점 가능.",
+      "unverifiedAspects": "참여사별 실제 단독 발행 계약 체결 건수는 법 시행 후 확정 예정."
+    },
+    "remainingIssues": "발행인 계좌관리기관 자본금 40억원 요건으로 인한 중소 조각투자사의 증권사 의존도 조정",
+    "networks": [
+      {
+        "name": "KB 엔터프라이즈 분산원장",
+        "type": "허가형 블록체인",
+        "status": "실증"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_kb_sec",
+        "role": "주관",
+        "participationType": "협의체 주관"
+      },
+      {
+        "orgId": "org_sk_cc",
+        "role": "기술 파트너",
+        "participationType": "협의체 참여"
+      },
+      {
+        "orgId": "org_lambda256",
+        "role": "인프라 파트너",
+        "participationType": "협의체 참여"
+      },
+      {
+        "orgId": "org_tessa",
+        "role": "발행사(미술품)",
+        "participationType": "협의체 참여"
+      },
+      {
+        "orgId": "org_seoul_auction_blue",
+        "role": "발행사(미술품)",
+        "participationType": "협의체 참여"
+      },
+      {
+        "orgId": "org_funble",
+        "role": "발행사(부동산)",
+        "participationType": "협의체 참여"
+      },
+      {
+        "orgId": "org_music_cow",
+        "role": "발행사(음원)",
+        "participationType": "협의체 참여"
+      },
+      {
+        "orgId": "org_stockkeeper",
+        "role": "발행사(축산)",
+        "participationType": "협의체 참여"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_law_enact",
+      "pol_sto_subreg_2026"
+    ],
+    "lastVerifiedAt": "2026-09-01",
+    "isSample": false
+  },
+  {
+    "id": "proj_kis_st_friends",
+    "name": "한국투자증권 토큰증권 협의체 '한국투자 ST 프렌즈'",
+    "shortName": "한투 ST 프렌즈",
+    "businessArea": "토큰증권(STO) 협의체",
+    "purpose": "인터넷전문은행(카카오뱅크, 토스뱅크)의 플랫폼 역량과 한국투자증권의 자본시장 노하우를 결합한 발행 분산원장 인프라 구축",
+    "targetAssets": "부동산(루센트블록), 문화콘텐츠, 비정형 증권",
+    "targetClients": "카카오뱅크·토스뱅크 3,000만 고객, 일반투자자",
+    "currentStage": "실증",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2023-03-22",
+        "evidenceId": "src_kis_friends_launch"
+      },
+      {
+        "stage": "실증",
+        "date": "2024-04-15",
+        "evidenceId": "src_kis_friends_test"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "ST 프렌즈 출범식",
+        "date": "2023-03"
+      },
+      {
+        "title": "분산원장 인프라 구축 완료 및 모의 테스트",
+        "date": "2024"
+      },
+      {
+        "title": "카카오그룹 전면 디지털자산 동맹 확장",
+        "date": "2026-10-01"
+      }
+    ],
+    "recentProgress": "카카오뱅크, 토스뱅크가 계좌 연동 노드로 참여하며 루센트블록(소유)의 토큰화 부동산 상품 테스트 완료",
+    "businessSignificance": {
+      "verifiedFacts": "국내 1위, 3위 인터넷전문은행이 모두 참여한 유일한 증권사 STO 협의체.",
+      "analysis": "리테일 투자자 모객에서 압도적인 플랫폼 경쟁력을 보유하여 일반 공모 조각투자 유통에 유리.",
+      "unverifiedAspects": "카카오뱅크의 자체 원화 스테이블코인 사업과의 우선 연계 약정 여부는 미확정."
+    },
+    "remainingIssues": "은행 계좌 개설 대행 및 투자자 예치금 분리보관 규정 준수",
+    "networks": [
+      {
+        "name": "ST 프렌즈 분산원장",
+        "type": "허가형 블록체인",
+        "status": "실증"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_kis",
+        "role": "주관",
+        "participationType": "협의체 주관"
+      },
+      {
+        "orgId": "org_kakaobank",
+        "role": "금융 플랫폼 파트너",
+        "participationType": "협의체 참여"
+      },
+      {
+        "orgId": "org_tossbank",
+        "role": "금융 플랫폼 파트너",
+        "participationType": "협의체 참여"
+      },
+      {
+        "orgId": "org_lucente_block",
+        "role": "발행사(부동산)",
+        "participationType": "협의체 참여"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_law_enact",
+      "pol_sto_subreg_2026"
+    ],
+    "lastVerifiedAt": "2026-10-01",
+    "isSample": false
+  },
+  {
+    "id": "proj_mirae_nfi",
+    "name": "미래에셋증권-하나금융-SKT 토큰증권 연합 '넥스트 파이낸스 이니셔티브(NFI)'",
+    "shortName": "미래에셋 NFI",
+    "businessArea": "토큰증권(STO) 협의체",
+    "purpose": "금융(미래에셋·하나), ICT·통신(SKT), 글로벌 블록체인(폴리곤 Labs)의 역량을 결합하여 웹3 금융 생태계 표준 선점",
+    "targetAssets": "국내외 실물자산(RWA), 지식재산권(IP), 사모 MMF",
+    "targetClients": "국내외 기관 및 개인투자자",
+    "currentStage": "실증",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2023-04-01",
+        "evidenceId": "src_mirae_skt_launch"
+      },
+      {
+        "stage": "실증",
+        "date": "2023-06-01",
+        "evidenceId": "src_mirae_hana_join"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "미래에셋-SKT NFI 출범",
+        "date": "2023-04"
+      },
+      {
+        "title": "하나금융그룹 NFI 공동 합류",
+        "date": "2023-06"
+      },
+      {
+        "title": "폴리곤 Labs 글로벌 기술 파트너 영입",
+        "date": "2023-09"
+      }
+    ],
+    "recentProgress": "하나금융그룹과 공동으로 토큰증권 인프라 호환성을 검증하고, 해외 자산의 토큰화 모델 개발 중",
+    "businessSignificance": {
+      "verifiedFacts": "증권 1위 미래에셋과 4대 금융 하나금융, 1위 통신사 SKT가 결합한 최대 규모 이종산업 연합체.",
+      "analysis": "증권사 간 경쟁을 넘어 은행-통신-글로벌 네트워크까지 포섭한 블록체인 금융 표준화 구상.",
+      "unverifiedAspects": "공동 펀드 설립 규모 및 실제 NFI 전용 통합 토큰 발행 일정은 비공개."
+    },
+    "remainingIssues": "금융지주 간 주도권 경쟁 및 글로벌 블록체인(폴리곤) 국내 제도권 승인 여부",
+    "networks": [
+      {
+        "name": "Polygon PoS / CDK",
+        "type": "이더리움 사이드체인 및 L2",
+        "status": "개념검토"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_mirae_sec",
+        "role": "주관",
+        "participationType": "공동 주관"
+      },
+      {
+        "orgId": "org_hana_fg",
+        "role": "공동 주관",
+        "participationType": "공동 주관"
+      },
+      {
+        "orgId": "org_skt",
+        "role": "ICT 인프라 및 지갑",
+        "participationType": "협의체 참여"
+      },
+      {
+        "orgId": "org_polygon",
+        "role": "글로벌 블록체인 파트너",
+        "participationType": "기술 제공"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_policy_202609"
+    ],
+    "lastVerifiedAt": "2026-06-01",
+    "isSample": false
+  },
+  {
+    "id": "proj_nh_vision_group",
+    "name": "NH투자증권 토큰증권 협의체 'STO 비전그룹'",
+    "shortName": "NH STO 비전그룹",
+    "businessArea": "토큰증권(STO) 협의체",
+    "purpose": "농협은행, 케이뱅크 및 조각투자 각 분야 선도기업, 블록체인 기술기업 파라메타와 함께 제도권 토큰증권 표준 체계 구축",
+    "targetAssets": "미술품(투게더아트), 축산, 수집품(트레져러), 탄소배출권(그리너리)",
+    "targetClients": "농협금융 고객, 케이뱅크 고객, 전문투자자",
+    "currentStage": "실증",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2023-02-20",
+        "evidenceId": "src_nh_vision_launch"
+      },
+      {
+        "stage": "실증",
+        "date": "2023-05-19",
+        "evidenceId": "src_nh_vision_expansion"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "STO 비전그룹 출범",
+        "date": "2023-02"
+      },
+      {
+        "title": "파라메타 기반 분산원장 테스트 완료",
+        "date": "2024"
+      },
+      {
+        "title": "투게더아트 미술품 투자계약증권 1호 청약 지원",
+        "date": "2024-01"
+      }
+    ],
+    "recentProgress": "파라메타의 분산원장 코어를 도입해 실명계좌 연동 및 투자계약증권 청약 지원 시스템을 선도적으로 가동",
+    "businessSignificance": {
+      "verifiedFacts": "국내 최초로 미술품 투자계약증권 청약 계좌관리 실적을 보유한 실무형 협의체.",
+      "analysis": "탄소배출권, 축산 등 범농협 시너지 자산의 토큰화에 강점을 보유.",
+      "unverifiedAspects": "자체 장외거래소 설립 추진 여부는 미정이며 KDX 연계에 무게."
+    },
+    "remainingIssues": "조각투자 증권의 2차 유통 거래대금 부족 해소",
+    "networks": [
+      {
+        "name": "파라메타 STO 원장",
+        "type": "허가형 블록체인",
+        "status": "실증"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_nh_sec",
+        "role": "주관",
+        "participationType": "협의체 주관"
+      },
+      {
+        "orgId": "org_parameta",
+        "role": "블록체인 메인넷 공급",
+        "participationType": "기술 제공"
+      },
+      {
+        "orgId": "org_together_art",
+        "role": "발행사(미술품)",
+        "participationType": "협의체 참여"
+      },
+      {
+        "orgId": "org_kbank",
+        "role": "인터넷은행 파트너",
+        "participationType": "협의체 참여"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_sto_law_enact"
+    ],
+    "lastVerifiedAt": "2026-06-01",
+    "isSample": false
+  },
+  {
+    "id": "proj_nxt_consortium",
+    "name": "넥스트레이드(NXT) 조각투자 장외거래소(ATS) 컨소시엄",
+    "shortName": "NXT 조각투자 장외거래소",
+    "businessArea": "거래·중개",
+    "purpose": "대체거래소(NXT) 인프라를 바탕으로 신탁수익증권 장외거래중개업을 인가받아 음원, 미술품, 부동산 등 조각투자의 전국 통합 유통시장 개설",
+    "targetAssets": "음악수익증권, 미술품, 부동산 신탁수익증권",
+    "targetClients": "일반투자자(1억원 한도) 및 증권사 고객",
+    "currentStage": "제한적 서비스",
+    "stageHistory": [
+      {
+        "stage": "발표·협약",
+        "date": "2025-10-31",
+        "evidenceId": "src_nxt_apply"
+      },
+      {
+        "stage": "제한적 서비스",
+        "date": "2026-02-13",
+        "evidenceId": "src_fsc_86295"
+      }
+    ],
+    "keySchedule": [
+      {
+        "title": "금융위 정례회의 예비인가 조건부 승인",
+        "date": "2026-02-13"
+      },
+      {
+        "title": "전산 설비 완비 후 본인가 심사",
+        "date": "2026년 하반기"
+      }
+    ],
+    "recentProgress": "신한투자증권, 하나증권, 뮤직카우 등이 지분을 출자하여 2개사 한정 인가 중 1곳으로 예비인가 승인 완료",
+    "businessSignificance": {
+      "verifiedFacts": "KDX 컨소시엄과 함께 국내 조각투자 2차 유통시장을 양분할 핵심 장외거래소 인프라.",
+      "analysis": "신한투자증권과 하나증권의 브로커리지 고객 기반과 뮤직카우의 음원 유동성이 결합된 강력한 유통망.",
+      "unverifiedAspects": "루센트블록의 기술탈취 제기 관련 공정위 행정조사 개시 시 본인가 중단 조건부 리스크 잔존."
+    },
+    "remainingIssues": "공정거래위원회 행정조사 여부 모니터링 및 본인가 전산 보안 요건 충족",
+    "networks": [
+      {
+        "name": "NXT 체결 원장",
+        "type": "고속 매매체결 엔진",
+        "status": "구축중"
+      }
+    ],
+    "participatingOrgs": [
+      {
+        "orgId": "org_nextrade",
+        "role": "최대주주",
+        "participationType": "주관"
+      },
+      {
+        "orgId": "org_shinhan_sec",
+        "role": "주요 주주 (5% 이상)",
+        "participationType": "투자/참여"
+      },
+      {
+        "orgId": "org_hana_sec",
+        "role": "주요 주주 (5% 이상)",
+        "participationType": "투자/참여"
+      },
+      {
+        "orgId": "org_music_cow",
+        "role": "주요 주주 및 상품 공급",
+        "participationType": "투자/참여"
+      }
+    ],
+    "relatedPolicyIds": [
+      "pol_ats_preapproval_202602",
+      "pol_sto_subreg_2026"
+    ],
+    "lastVerifiedAt": "2026-02-13",
+    "isSample": false
+  }
+]

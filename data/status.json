@@ -1,0 +1,24 @@
+{
+  "systemStatus": "정상 가동 중",
+  "timezone": "Asia/Seoul (KST)",
+  "lastAttemptAt": "2026-10-14T07:26:26+09:00",
+  "lastSuccessAt": "2026-10-14T07:26:35+09:00",
+  "lastDataChangeAt": "2026-10-12T18:30:00+09:00",
+  "schedule": "매일 오전 06:30 KST (GitHub Actions 자동 실행)",
+  "collectorHealth": {
+    "fsc_crawler": "정상 (200 OK)",
+    "bok_crawler": "정상 (200 OK)",
+    "google_news_rss": "정상 (200 OK)",
+    "naver_news_search": "정상 (API/HTML 200 OK)"
+  },
+  "metrics": {
+    "totalOrganizations": 54,
+    "totalProjects": 17,
+    "totalPolicies": 7,
+    "totalRelations": 53,
+    "totalSources": 26,
+    "totalEvents": 14,
+    "totalChangelogs": 6,
+    "pendingReviewCount": 2
+  }
+}

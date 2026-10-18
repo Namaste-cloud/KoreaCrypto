@@ -1,0 +1,1374 @@
+[
+  {
+    "id": "org_kb_sec",
+    "name": "KB증권",
+    "shortName": "KB증권",
+    "englishName": "KB Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": "org_kb_fg",
+    "previousNames": [
+      {
+        "name": "현대증권",
+        "period": "~ 2016"
+      }
+    ],
+    "disambiguationNote": "KB금융지주의 핵심 금융투자 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "자체 STO 인프라 고도화(KB STO V2)와 AI 에이전트 결합, 캔톤 네트워크 및 시큐리타이즈·옵티미즘 협력을 통해 전통 정형증권(사모MMF·채권)의 온체인화 및 글로벌 연계를 주도 중",
+    "keyBusinessAreas": [
+      "토큰증권(STO)",
+      "정형증권 온체인화",
+      "기관용 블록체인 인프라",
+      "글로벌 유통 연계"
+    ]
+  },
+  {
+    "id": "org_kb_bank",
+    "name": "KB국민은행",
+    "shortName": "국민은행",
+    "englishName": "KB Kookmin Bank",
+    "sector": "은행",
+    "parentOrgId": "org_kb_fg",
+    "previousNames": [],
+    "disambiguationNote": "KB금융그룹 은행 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "한국은행 프로젝트 한강 2단계 예금토큰 실증 참여, 카카오그룹과의 원화 스테이블코인 생태계 논의, BNY 멜론과의 디지털 국경간 결제 협약, 합작 수탁사 KODA 지분 보유",
+    "keyBusinessAreas": [
+      "예금토큰(CBDC)",
+      "원화 스테이블코인",
+      "디지털자산 수탁",
+      "해외 디지털 결제"
+    ]
+  },
+  {
+    "id": "org_kb_fg",
+    "name": "KB금융지주",
+    "shortName": "KB금융",
+    "englishName": "KB Financial Group Inc.",
+    "sector": "금융지주",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "KB국민은행, KB증권 등의 지주회사 (계열사와 구분 관리)",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "그룹 차원의 디지털자산 전략 총괄 및 계열사 간(은행-증권-자산운용) 디지털자산 시너지 체계 가동",
+    "keyBusinessAreas": [
+      "그룹 디지털자산 전략",
+      "제도 대응"
+    ]
+  },
+  {
+    "id": "org_mirae_sec",
+    "name": "미래에셋증권",
+    "shortName": "미래에셋증권",
+    "englishName": "Mirae Asset Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": "org_mirae_fg",
+    "previousNames": [
+      {
+        "name": "대우증권",
+        "period": "~ 2016"
+      }
+    ],
+    "disambiguationNote": "미래에셋금융그룹의 핵심 증권사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "블랙록 BUIDL 구조를 벤치마크한 기관 전용 사모 MMF 및 채권 온체인화(T+0 실시간 환매, 온체인 레포 시장) 추진. 코빗 인수를 통한 그룹 가상자산 연계 생태계 확보",
+    "keyBusinessAreas": [
+      "정형증권 온체인화(사모MMF)",
+      "온체인 레포(담보)",
+      "토큰증권(STO)"
+    ]
+  },
+  {
+    "id": "org_mirae_fg",
+    "name": "미래에셋그룹(미래에셋컨설팅)",
+    "shortName": "미래에셋",
+    "englishName": "Mirae Asset Group",
+    "sector": "금융지주",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "미래에셋증권, 미래에셋자산운용의 상위 지배구조 기업",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-16",
+    "summary": "2026년 7월 공정위 승인을 받아 국내 5대 가상자산거래소 코빗 지분 92.06% 인수, 사명을 '디지털엑스'로 변경하며 금가분리 완화의 첫 신호탄을 쏨",
+    "keyBusinessAreas": [
+      "가상자산거래소 지배",
+      "그룹 디지털자산 전략"
+    ]
+  },
+  {
+    "id": "org_shinhan_sec",
+    "name": "신한투자증권",
+    "shortName": "신한투자증권",
+    "englishName": "Shinhan Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": "org_shinhan_fg",
+    "previousNames": [
+      {
+        "name": "신한금융투자",
+        "period": "~ 2022"
+      }
+    ],
+    "disambiguationNote": "신한금융지주 증권 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "조각투자 장외거래소 NXT 컨소시엄 핵심 주주, 미국 디지털에셋 전략적 지분 투자, 캔톤 네트워크 거버넌스 및 정형증권 온체인화 추진",
+    "keyBusinessAreas": [
+      "토큰증권(STO)",
+      "장외거래소(NXT)",
+      "글로벌 블록체인 투자"
+    ]
+  },
+  {
+    "id": "org_shinhan_bank",
+    "name": "신한은행",
+    "shortName": "신한은행",
+    "englishName": "Shinhan Bank",
+    "sector": "은행",
+    "parentOrgId": "org_shinhan_fg",
+    "previousNames": [],
+    "disambiguationNote": "신한금융지주 은행 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "프로젝트 한강 2단계 예금토큰 실증 참여, 합작 수탁사 KDAC 지분 투자, 코빗 실명계좌 발급 은행",
+    "keyBusinessAreas": [
+      "예금토큰(CBDC)",
+      "수탁(KDAC)",
+      "실명확인입출금계정"
+    ]
+  },
+  {
+    "id": "org_shinhan_fg",
+    "name": "신한금융지주",
+    "shortName": "신한금융",
+    "englishName": "Shinhan Financial Group Co., Ltd.",
+    "sector": "금융지주",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "신한은행, 신한투자증권, 신한자산운용의 모회사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-29",
+    "summary": "미국 디지털에셋 및 캔톤 재단과 토큰화 금융 협력 확대. 신한자산운용 국내 금융사 최초 캔톤 네트워크 '슈퍼 밸리데이터' 승인",
+    "keyBusinessAreas": [
+      "그룹 토큰화 금융",
+      "캔톤 네트워크 거버넌스"
+    ]
+  },
+  {
+    "id": "org_hana_sec",
+    "name": "하나증권",
+    "shortName": "하나증권",
+    "englishName": "Hana Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": "org_hana_fg",
+    "previousNames": [
+      {
+        "name": "하나금융투자",
+        "period": "~ 2022"
+      }
+    ],
+    "disambiguationNote": "하나금융지주 증권 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "한돈 등 실물자산 투자계약증권(공모) 3차 발행 완료, 조각투자 장외거래소 NXT 컨소시엄 주요 지분 참여, 자체 토큰증권 인프라 플랫폼 고도화",
+    "keyBusinessAreas": [
+      "토큰증권(실물자산 조각투자)",
+      "장외거래소(NXT)"
+    ]
+  },
+  {
+    "id": "org_hana_bank",
+    "name": "하나은행",
+    "shortName": "하나은행",
+    "englishName": "Hana Bank",
+    "sector": "은행",
+    "parentOrgId": "org_hana_fg",
+    "previousNames": [
+      {
+        "name": "KEB하나은행",
+        "period": "2015 ~ 2020"
+      }
+    ],
+    "disambiguationNote": "하나금융지주 은행 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "프로젝트 한강 2단계 예금토큰 실증 선도, 두나무와 블록체인 기반 해외송금 협력, 미국 비트고와 합작법인 비트고코리아(수탁) 설립",
+    "keyBusinessAreas": [
+      "예금토큰(CBDC)",
+      "블록체인 해외송금",
+      "수탁(비트고코리아)"
+    ]
+  },
+  {
+    "id": "org_hana_fg",
+    "name": "하나금융지주",
+    "shortName": "하나금융",
+    "englishName": "Hana Financial Group Inc.",
+    "sector": "금융지주",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "하나은행, 하나증권 모회사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-08-21",
+    "summary": "4대 금융지주 최초로 지방금융지주(BNK, iM) 및 2금융권과 원화 스테이블코인 공동 대응 컨소시엄 출범. 비트고코리아 VASP 신고 완료로 5대 시중은행 수탁 진용 완성",
+    "keyBusinessAreas": [
+      "원화 스테이블코인 컨소시엄",
+      "디지털자산 수탁"
+    ]
+  },
+  {
+    "id": "org_kis",
+    "name": "한국투자증권",
+    "shortName": "한투증권",
+    "englishName": "Korea Investment & Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": "org_kis_fg",
+    "previousNames": [],
+    "disambiguationNote": "한국투자금융지주 주력 증권사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "카카오·카카오뱅크·카카오페이와 디지털자산 동맹 MOU 체결(투자·송금·정산 및 전자지갑), 과거 '한국투자 ST 프렌즈' 협의체 운영 경험 기반 확장",
+    "keyBusinessAreas": [
+      "토큰증권(STO)",
+      "카카오 디지털자산 플랫폼 연동",
+      "가상자산거래소 지분(코인원)"
+    ]
+  },
+  {
+    "id": "org_nh_sec",
+    "name": "NH투자증권",
+    "shortName": "NH투자증권",
+    "englishName": "NH Investment & Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": "org_nh_fg",
+    "previousNames": [
+      {
+        "name": "우리투자증권 (구)",
+        "period": "~ 2014"
+      }
+    ],
+    "disambiguationNote": "구 우리투자증권이 농협에 인수되어 탄생. 2024년 우리금융이 새로 출범시킨 우리투자증권과 다름에 유의",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "'STO 비전그룹' 중심 토큰증권 협의체 생태계 구성, 투게더아트(미술품) 등 조각투자 발행 지원 및 조각투자 장외거래소 KDX 컨소시엄 연계",
+    "keyBusinessAreas": [
+      "토큰증권(STO)",
+      "STO 비전그룹",
+      "조각투자 발행지원"
+    ]
+  },
+  {
+    "id": "org_woori_sec",
+    "name": "우리투자증권(신)",
+    "shortName": "우리투자증권",
+    "englishName": "Woori Investment & Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": "org_woori_fg",
+    "previousNames": [
+      {
+        "name": "우리종합금융+한국포스증권",
+        "period": "~ 2024"
+      }
+    ],
+    "disambiguationNote": "2024년 8월 우리금융이 우리종금과 포스증권을 합병해 10년 만에 재출범시킨 증권사 (과거 NH농협에 매각된 구 우리투자증권과 별개 법인)",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-05-13",
+    "summary": "코스콤의 토큰증권 공동 발행 플랫폼 참여 MOU를 체결하여 초기 독자 구축 비용을 절감하고 제도화에 대응",
+    "keyBusinessAreas": [
+      "토큰증권(STO) 공동인프라"
+    ]
+  },
+  {
+    "id": "org_kiwoom_sec",
+    "name": "키움증권",
+    "shortName": "키움증권",
+    "englishName": "Kiwoom Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "다우키움그룹 산하 리테일 점유율 1위 증권사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-02-13",
+    "summary": "한국거래소·카카오페이증권·교보생명 등과 함께 조각투자 장외거래소 'KDX 컨소시엄'을 주도하여 금융위 예비인가를 획득",
+    "keyBusinessAreas": [
+      "조각투자 장외거래소(KDX)",
+      "토큰증권 유통"
+    ]
+  },
+  {
+    "id": "org_meritz_sec",
+    "name": "메리츠증권",
+    "shortName": "메리츠증권",
+    "englishName": "Meritz Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": "org_meritz_fg",
+    "previousNames": [],
+    "disambiguationNote": "메리츠금융그룹 증권 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-07",
+    "summary": "글로벌 블록체인 기업 리플(Ripple)과 전략적 파트너십을 체결하고 '리플 커스터디' 등 기관용 인프라 도입 검토",
+    "keyBusinessAreas": [
+      "디지털자산 수탁 인프라",
+      "글로벌 솔루션 연계"
+    ]
+  },
+  {
+    "id": "org_eugene_sec",
+    "name": "유진투자증권",
+    "shortName": "유진투자증권",
+    "englishName": "Eugene Investment & Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "유진그룹 산하 중견 증권사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-21",
+    "summary": "블록체인 기업 비토즈(BEATOZ)와 토큰증권 청약대금의 스테이블코인 온체인 결제 PoC 협약 체결, 하나금융 스테이블코인 컨소시엄 참여",
+    "keyBusinessAreas": [
+      "토큰증권 청약 온체인 결제",
+      "스테이블코인 결제 연계"
+    ]
+  },
+  {
+    "id": "org_samsung_sec",
+    "name": "삼성증권",
+    "shortName": "삼성증권",
+    "englishName": "Samsung Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "삼성그룹 금융 계열사",
+    "investigationStatus": "일부조사",
+    "lastVerifiedAt": "2026-09-01",
+    "summary": "업비트 운영사 두나무 지분 보유. STO 관련 연구 및 내부 PoC를 진행 중이나 대외적 대형 컨소시엄 설립에는 보수적 기조 유지",
+    "keyBusinessAreas": [
+      "토큰증권(내부연구)",
+      "두나무 지분보유"
+    ]
+  },
+  {
+    "id": "org_koda",
+    "name": "한국디지털에셋(KODA)",
+    "shortName": "KODA",
+    "englishName": "Korea Digital Asset Co.",
+    "sector": "수탁사",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "KB국민은행·해시드·해치랩스가 공동 설립한 법인 전용 가상자산 수탁사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "국내 1호 VASP 인가 수탁사. 법인 고객 대상 표준화된 통제 시스템과 비트코인 현물 ETF 도입 대비 수탁 인프라 구축",
+    "keyBusinessAreas": [
+      "기관 디지털자산 수탁",
+      "법인 실명계좌 커스터디"
+    ]
+  },
+  {
+    "id": "org_kdac",
+    "name": "한국디지털자산수탁(KDAC)",
+    "shortName": "KDAC",
+    "englishName": "Korea Digital Asset Custody",
+    "sector": "수탁사",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "신한은행이 지분 투자하고 2024년 NH농협은행 투자사 '카르도(Cardo)'를 흡수합병함",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "신한은행과 NH농협은행 양대 금융지주 계열 은행이 공동 제휴하는 수탁사로 금융권 수준의 내부통제 강점",
+    "keyBusinessAreas": [
+      "기관 디지털자산 수탁",
+      "은행 연계 수탁"
+    ]
+  },
+  {
+    "id": "org_bdacs",
+    "name": "비댁스(BDACS)",
+    "shortName": "BDACS",
+    "englishName": "BDACS Inc.",
+    "sector": "수탁사",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "우리은행이 2024년 12월 지분을 취득하고 제휴 관계를 맺은 수탁사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "우리은행과의 제휴를 기반으로 원화 스테이블코인 및 지급결제 특화 수탁 모델 개발",
+    "keyBusinessAreas": [
+      "기관 수탁",
+      "원화 스테이블코인 연계"
+    ]
+  },
+  {
+    "id": "org_bitgo_kr",
+    "name": "비트고코리아(BitGo Korea)",
+    "shortName": "비트고코리아",
+    "englishName": "BitGo Korea Ltd.",
+    "sector": "수탁사",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "미국 NYSE 상장사 BitGo와 하나금융그룹(지분 약 25%), SK텔레콤(10%)의 합작법인",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-08-21",
+    "summary": "2026년 8월 18일 FIU VASP 신고 수리 완료. 국내 수탁사 중 최초로 이전·보관뿐 아니라 중개·알선·대행 업무까지 신고 수리됨",
+    "keyBusinessAreas": [
+      "글로벌 기관 커스터디",
+      "중개·대행 연계 수탁"
+    ]
+  },
+  {
+    "id": "org_bok",
+    "name": "한국은행",
+    "shortName": "한국은행",
+    "englishName": "Bank of Korea",
+    "sector": "공공·인프라",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "대한민국 중앙은행",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "기관용 CBDC 인프라 및 시중은행 예금토큰 기반 '프로젝트 한강' 2단계 주도, 2027년 국채 토큰화 실증 시범사업에서 CBDC 기반 결제 결제완결성 검증 추진",
+    "keyBusinessAreas": [
+      "기관용 CBDC",
+      "예금토큰 실증",
+      "국채 토큰화 결제 인프라"
+    ]
+  },
+  {
+    "id": "org_fsc",
+    "name": "금융위원회",
+    "shortName": "금융위",
+    "englishName": "Financial Services Commission",
+    "sector": "공공·인프라",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "대한민국 금융정책 및 감독 최고 의결기구",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "전자증권법·자본시장법 하위법규 입법예고, 민·관 합동 토큰증권 협의체 정책방향 발표, 디지털자산기본법(2단계법) 정부안 성안 추진",
+    "keyBusinessAreas": [
+      "자본시장·전자증권 법령",
+      "디지털자산기본법",
+      "혁신금융서비스"
+    ]
+  },
+  {
+    "id": "org_ksd",
+    "name": "한국예탁결제원",
+    "shortName": "예탁원",
+    "englishName": "Korea Securities Depository",
+    "sector": "공공·인프라",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 유일의 전자등록기관",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "전자증권법 개정에 따른 토큰증권 총량관리 및 분산원장 전자등록 연계 시스템 구축, 증권사 분산원장 노드 연동 표준화 주관",
+    "keyBusinessAreas": [
+      "토큰증권 총량관리",
+      "전자등록 연계 인프라"
+    ]
+  },
+  {
+    "id": "org_koscom",
+    "name": "코스콤",
+    "shortName": "코스콤",
+    "englishName": "Koscom Corporation",
+    "sector": "공공·인프라",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "한국거래소(KRX) 자회사로 금융 IT 인프라 전문기관",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-05-13",
+    "summary": "중소형 증권사를 위한 토큰증권 공동 발행 플랫폼 구축(우리투자·교보·다올·iM증권 등 제휴), KDX 컨소시엄 참여",
+    "keyBusinessAreas": [
+      "토큰증권 공동 발행 플랫폼",
+      "KDX 연계"
+    ]
+  },
+  {
+    "id": "org_krx",
+    "name": "한국거래소",
+    "shortName": "한국거래소",
+    "englishName": "Korea Exchange",
+    "sector": "공공·인프라",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 유일 정규 증권·파생상품 거래소",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-04",
+    "summary": "KDX 컨소시엄 주요 지분 참여, NYSE·나스닥 모델을 참고하여 상장주식 토큰화 장내시장 파일럿 테스트 검토",
+    "keyBusinessAreas": [
+      "장내 토큰화 파일럿",
+      "KDX 장외거래소 지분"
+    ]
+  },
+  {
+    "id": "org_canton",
+    "name": "캔톤 재단 / 디지털에셋",
+    "shortName": "캔톤 네트워크",
+    "englishName": "Canton Foundation / Digital Asset",
+    "sector": "해외·블록체인",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "스위스 캔톤 재단 및 미국 디지털에셋(Canton Network 개발사)",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-29",
+    "summary": "골드만삭스·DTCC 등이 참여하는 글로벌 금융기관 전용 프라이버시 지원 분산원장. 국내에서 KB증권, 신한금융, 웨이브릿지와 협력",
+    "keyBusinessAreas": [
+      "기관용 분산원장",
+      "상호운용성",
+      "글로벌 유통망"
+    ]
+  },
+  {
+    "id": "org_securitize",
+    "name": "시큐리타이즈",
+    "shortName": "시큐리타이즈",
+    "englishName": "Securitize, Inc.",
+    "sector": "해외·블록체인",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "미국 블랙록 BUIDL 펀드의 토큰화 파트너사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-23",
+    "summary": "KB증권과 국내 기관투자자 전용 토큰증권 발행 및 글로벌 공급 인프라 협력 MOU 체결",
+    "keyBusinessAreas": [
+      "토큰화 발행 솔루션",
+      "글로벌 토큰화 파트너"
+    ]
+  },
+  {
+    "id": "org_optimism",
+    "name": "옵티미즘 재단",
+    "shortName": "옵티미즘",
+    "englishName": "Optimism Foundation",
+    "sector": "해외·블록체인",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "이더리움 Layer-2 OP 스택 개발·생태계 지원 비영리 재단",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-23",
+    "summary": "KB증권 및 시큐리타이즈와 함께 토큰증권 네트워크 레이어 기술 협력 추진",
+    "keyBusinessAreas": [
+      "이더리움 L2 분산원장",
+      "기관 확장성 솔루션"
+    ]
+  },
+  {
+    "id": "org_ripple",
+    "name": "리플",
+    "shortName": "리플",
+    "englishName": "Ripple Labs Inc.",
+    "sector": "해외·블록체인",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "미국 엔터프라이즈 블록체인 및 리플 커스터디 공급사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-07",
+    "summary": "메리츠증권과 전략적 파트너십을 체결하고 국내 자본시장에 적합한 디지털자산 수탁 및 토큰화 솔루션 지원 검토",
+    "keyBusinessAreas": [
+      "리플 커스터디",
+      "기관 토큰화 솔루션"
+    ]
+  },
+  {
+    "id": "org_wavebridge",
+    "name": "웨이브릿지",
+    "shortName": "웨이브릿지",
+    "englishName": "Wavebridge Inc.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 VASP 신고 수리 완료 퀀트·디지털자산 금융 인프라 기업",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "KB증권-캔톤 재단 협약 파트너로 결제·정산 인프라 담당, 국내외 8개 기관과 비트코인 현물 ETF 도입 백서 공동 발간",
+    "keyBusinessAreas": [
+      "기관 결제정산",
+      "캔톤 노드 운영",
+      "디지털자산 지수"
+    ]
+  },
+  {
+    "id": "org_tessa",
+    "name": "테사(TESSA)",
+    "shortName": "테사",
+    "englishName": "Tessa Co., Ltd.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "미술품·신재생에너지 조각투자 플랫폼사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-08-26",
+    "summary": "스탁키퍼와 함께 발행인 주도 토큰증권 분산원장 IXO-NET 및 계좌관리 솔루션 IXTO 구축 기본계약 체결",
+    "keyBusinessAreas": [
+      "조각투자 발행",
+      "발행인 분산원장 IXO-NET"
+    ]
+  },
+  {
+    "id": "org_stockkeeper",
+    "name": "스탁키퍼(뱅카우)",
+    "shortName": "스탁키퍼",
+    "englishName": "Stockkeeper Co., Ltd.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "한우 가축 조각투자 플랫폼 '뱅카우' 운영사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-08-26",
+    "summary": "테사의 분산원장 네트워크 IXO-NET에 참여하여 축산 및 실물자산의 토큰증권 발행 인프라 공동 운영",
+    "keyBusinessAreas": [
+      "가축 조각투자 발행",
+      "IXO-NET 참여"
+    ]
+  },
+  {
+    "id": "org_korbit",
+    "name": "디지털엑스(구 코빗)",
+    "shortName": "디지털엑스",
+    "englishName": "Digital X (formerly Korbit)",
+    "sector": "가상자산사업자",
+    "parentOrgId": "org_mirae_fg",
+    "previousNames": [
+      {
+        "name": "코빗 (Korbit)",
+        "period": "2013 ~ 2026.08"
+      }
+    ],
+    "disambiguationNote": "한국 최초의 가상자산거래소였으나 2026년 미래에셋그룹에 인수된 후 상호 및 서비스명을 '디지털엑스'로 전면 변경",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-16",
+    "summary": "미래에셋그룹 계열사 미래에셋컨설팅이 지분 92.06% 인수 후 브랜드 통합 완료. 증권과 가상자산 융합 플랫폼 추진",
+    "keyBusinessAreas": [
+      "원화 가상자산거래소",
+      "미래에셋 연계 디지털 투자 플랫폼"
+    ]
+  },
+  {
+    "id": "org_dunamu",
+    "name": "두나무(업비트)",
+    "shortName": "두나무",
+    "englishName": "Dunamu Inc.",
+    "sector": "가상자산사업자",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "업비트 운영사, 하나은행·삼성증권 지분 연계",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-29",
+    "summary": "국내 1위 가상자산거래소 운영사. 하나은행과 블록체인 해외송금 프로세스 구축, 네이버파이낸셜과의 기업결합 심사 진행 중",
+    "keyBusinessAreas": [
+      "가상자산거래소",
+      "블록체인 해외송금",
+      "원화 스테이블코인 인프라"
+    ]
+  },
+  {
+    "id": "org_sk_cc",
+    "name": "SK(주) C&C",
+    "shortName": "SK C&C",
+    "englishName": "SK Inc. C&C",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "SK그룹의 IT 및 블록체인 엔터프라이즈 솔루션 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-01",
+    "summary": "KB증권 ST 오너스의 핵심 기술 파트너로 금융 엔터프라이즈 블록체인 시스템 구축 지원",
+    "keyBusinessAreas": [
+      "엔터프라이즈 블록체인",
+      "STO 시스템 구축"
+    ]
+  },
+  {
+    "id": "org_lambda256",
+    "name": "람다256(Lambda256)",
+    "shortName": "람다256",
+    "englishName": "Lambda256",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "두나무의 블록체인 기술 전문 자회사 (루니버스 개발사)",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-01",
+    "summary": "신한투자증권의 STO 개념검증(PoC) 및 KB증권 ST 오너스의 분산원장 인프라 파트너",
+    "keyBusinessAreas": [
+      "루니버스 블록체인",
+      "STO 토큰화 인프라"
+    ]
+  },
+  {
+    "id": "org_seoul_auction_blue",
+    "name": "서울옥션블루(SOTWO)",
+    "shortName": "서울옥션블루",
+    "englishName": "Seoul Auction Blue",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 최대 미술품 경매사 서울옥션의 미술품 조각투자 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-08-01",
+    "summary": "KB증권 ST 오너스 참여사 및 신한투자증권·미래에셋증권과 미술품 투자계약증권 협력",
+    "keyBusinessAreas": [
+      "미술품 조각투자",
+      "투자계약증권 발행"
+    ]
+  },
+  {
+    "id": "org_funble",
+    "name": "펀블(Funble)",
+    "shortName": "펀블",
+    "englishName": "Funble Inc.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "부동산 조각투자 혁신금융서비스 샌드박스 3호 지정 기업",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-04-02",
+    "summary": "KB증권 ST 오너스 및 NH STO 비전그룹에 참여하며 부동산 토큰증권 제도권 진입 추진",
+    "keyBusinessAreas": [
+      "부동산 신탁수익증권",
+      "토큰증권 플랫폼"
+    ]
+  },
+  {
+    "id": "org_music_cow",
+    "name": "뮤직카우(Music Cow)",
+    "shortName": "뮤직카우",
+    "englishName": "Musicow Inc.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 최초 음악수익증권 플랫폼 운영사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-08-01",
+    "summary": "KB증권 ST 오너스 참여사이자, 넥스트레이드(NXT) 장외거래소 컨소시엄 주요 주주로 참여",
+    "keyBusinessAreas": [
+      "음원수익증권",
+      "장외거래소 NXT 지분"
+    ]
+  },
+  {
+    "id": "org_kakaobank",
+    "name": "카카오뱅크",
+    "shortName": "카카오뱅크",
+    "englishName": "KakaoBank Corp.",
+    "sector": "은행",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "인터넷전문은행 점유율 1위",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "한국투자증권 'ST 프렌즈' 핵심 파트너, 카카오그룹 원화 스테이블코인 TF 주도 및 부산은행과의 공동대출 샌드박스",
+    "keyBusinessAreas": [
+      "인터넷뱅킹",
+      "원화 스테이블코인",
+      "ST 프렌즈"
+    ]
+  },
+  {
+    "id": "org_tossbank",
+    "name": "토스뱅크",
+    "shortName": "토스뱅크",
+    "englishName": "Toss Bank Corp.",
+    "sector": "은행",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "비바리퍼블리카 계열 인터넷전문은행",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-08-01",
+    "summary": "한국투자증권 'ST 프렌즈' 협의체 참여사로 토큰증권 계좌 개설 및 결제 연동 협력",
+    "keyBusinessAreas": [
+      "인터넷뱅킹",
+      "ST 프렌즈 참여"
+    ]
+  },
+  {
+    "id": "org_lucente_block",
+    "name": "루센트블록(소유)",
+    "shortName": "루센트블록",
+    "englishName": "Lucentblock Corp.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "부동산 조각투자 플랫폼 '소유' 운영사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-02-13",
+    "summary": "한국투자증권 'ST 프렌즈' 참여사 및 하나증권 계좌 연동, 조각투자 장외거래소 독립 인가 신청사",
+    "keyBusinessAreas": [
+      "부동산 조각투자",
+      "ST 프렌즈"
+    ]
+  },
+  {
+    "id": "org_kakaopay",
+    "name": "카카오페이 / 카카오페이증권",
+    "shortName": "카카오페이",
+    "englishName": "Kakao Pay Corp.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "카카오 결제 및 금융 플랫폼",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-01",
+    "summary": "조각투자 장외거래소 KDX 컨소시엄 공동 최대주주, 한투증권 및 국민은행과 디지털자산 연맹",
+    "keyBusinessAreas": [
+      "디지털 지갑",
+      "장외거래소 KDX",
+      "스테이블코인 유통"
+    ]
+  },
+  {
+    "id": "org_skt",
+    "name": "SK텔레콤",
+    "shortName": "SK텔레콤",
+    "englishName": "SK Telecom Co., Ltd.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 1위 이동통신사 및 Web3 인프라 기업",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-08-21",
+    "summary": "미래에셋 NFI 핵심 동맹사, 하나은행-비트고코리아 합작법인 지분 10% 보유",
+    "keyBusinessAreas": [
+      "디지털 지갑",
+      "Web3 인증",
+      "NFI 동맹"
+    ]
+  },
+  {
+    "id": "org_polygon",
+    "name": "폴리곤 Labs (Polygon)",
+    "shortName": "폴리곤",
+    "englishName": "Polygon Labs",
+    "sector": "해외·블록체인",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "이더리움 사이드체인 및 ZK 롤업 선도 기업",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-06-01",
+    "summary": "미래에셋증권 NFI의 글로벌 블록체인 기술 파트너로 해외 토큰화 연계 지원",
+    "keyBusinessAreas": [
+      "L2 롤업",
+      "글로벌 토큰화 인프라"
+    ]
+  },
+  {
+    "id": "org_kbank",
+    "name": "케이뱅크",
+    "shortName": "케이뱅크",
+    "englishName": "Kbank",
+    "sector": "은행",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 1호 인터넷전문은행, 업비트 실명계좌 발급 은행",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-09-01",
+    "summary": "NH투자증권 STO 비전그룹 핵심 금융 파트너, 하나금융 원화 스테이블코인 컨소시엄 참여 추진",
+    "keyBusinessAreas": [
+      "인터넷뱅킹",
+      "업비트 실명계좌",
+      "STO 비전그룹"
+    ]
+  },
+  {
+    "id": "org_together_art",
+    "name": "투게더아트(아트투게더)",
+    "shortName": "투게더아트",
+    "englishName": "Together Art",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "케이옥션 계열 미술품 조각투자사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-08-01",
+    "summary": "NH투자증권 STO 비전그룹 및 KB증권 ST 오너스 참여, 미술품 투자계약증권 1호 청약 달성",
+    "keyBusinessAreas": [
+      "미술품 투자계약증권",
+      "STO 비전그룹"
+    ]
+  },
+  {
+    "id": "org_parameta",
+    "name": "파라메타(구 아이콘루프)",
+    "shortName": "파라메타",
+    "englishName": "PARAMETA Inc.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [
+      {
+        "name": "아이콘루프 (ICONLOOP)",
+        "period": "~ 2023"
+      }
+    ],
+    "disambiguationNote": "국내 1세대 블록체인 코어 기술 기업",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-06-01",
+    "summary": "NH투자증권 STO 비전그룹의 총괄 블록체인 메인넷 기술 공급사",
+    "keyBusinessAreas": [
+      "파라메타 S (STO 솔루션)",
+      "분산신원증명(DID)"
+    ]
+  },
+  {
+    "id": "org_nextrade",
+    "name": "넥스트레이드(NXT)",
+    "shortName": "넥스트레이드",
+    "englishName": "Nextrade Inc.",
+    "sector": "공공·인프라",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "금융투자협회와 주요 증권사들이 설립한 국내 최초 대체거래소(ATS)",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-02-13",
+    "summary": "조각투자 장외거래소(NXT 컨소시엄)의 최대주주로 금융위 예비인가 획득",
+    "keyBusinessAreas": [
+      "대체거래소(ATS)",
+      "조각투자 장외거래소(NXT)"
+    ]
+  },
+  {
+    "id": "org_kyobo_sec",
+    "name": "교보증권",
+    "shortName": "교보증권",
+    "englishName": "Kyobo Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "교보생명그룹 금융투자 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-05-13",
+    "summary": "코스콤 토큰증권 공동플랫폼 참여 및 KDX 장외거래소 연계",
+    "keyBusinessAreas": [
+      "토큰증권 공동플랫폼",
+      "KDX 연계"
+    ]
+  },
+  {
+    "id": "org_daishin_sec",
+    "name": "대신증권",
+    "shortName": "대신증권",
+    "englishName": "Daishin Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "카사코리아 인수사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-06-01",
+    "summary": "부동산 조각투자 1호 플랫폼 카사코리아를 인수하여 독자적 조각투자 계좌관리 및 코스콤 연합",
+    "keyBusinessAreas": [
+      "카사코리아 지배",
+      "부동산 토큰증권"
+    ]
+  },
+  {
+    "id": "org_kasa_korea",
+    "name": "카사코리아(Kasa)",
+    "shortName": "카사코리아",
+    "englishName": "Kasa Korea Co., Ltd.",
+    "sector": "핀테크",
+    "parentOrgId": "org_daishin_sec",
+    "previousNames": [],
+    "disambiguationNote": "국내 최초 부동산 조각투자 플랫폼, 2023년 대신증권에 인수됨",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-02-13",
+    "summary": "대신증권 계열 조각투자사로 KDX 컨소시엄에 지분 참여",
+    "keyBusinessAreas": [
+      "부동산 조각투자",
+      "KDX 지분"
+    ]
+  },
+  {
+    "id": "org_yeolmae",
+    "name": "열매컴퍼니(아트앤가이드)",
+    "shortName": "열매컴퍼니",
+    "englishName": "Yeolmae Company (Art&Guide)",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 1호 투자계약증권(미술품) 증권신고서 금융위 승인 및 공모 완료 기업",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "2023년 12월 국내 제1호 미술품 투자계약증권(쿠사마 야요이 '호박') 증권신고서 승인 및 완판. 키움증권 계좌관리기관 연계",
+    "keyBusinessAreas": [
+      "미술품 조각투자",
+      "투자계약증권 1호 발행",
+      "아트 자산평가"
+    ]
+  },
+  {
+    "id": "org_itcen",
+    "name": "아이티센(크레더/센골드)",
+    "shortName": "아이티센",
+    "englishName": "ITCEN Group (Creder)",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "금·은·귀금속 등 원자재 RWA 토큰화 및 부산디지털자산거래소 컨소시엄 주관",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "하나증권과 실물 금 기반 STO 유통 협약, 100% 실물 보관 금 기반 골드스테이션 및 부산BDX 운영 사업자",
+    "keyBusinessAreas": [
+      "귀금속 RWA 토큰화",
+      "금 실물 연계 STO",
+      "원자재 디지털화"
+    ]
+  },
+  {
+    "id": "org_buycell",
+    "name": "바이셀스탠다드(피스/PIECE)",
+    "shortName": "바이셀스탠다드",
+    "englishName": "Buycell Standard (PIECE)",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "선박금융, 명품, 현물 자산 기반 조각투자 플랫폼 운영사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "신한투자증권 및 한국투자증권과 손잡고 KDB산업은행 연계 선박금융 및 명품 자산 STO 실증 추진",
+    "keyBusinessAreas": [
+      "선박금융 STO",
+      "현물 자산 조각투자",
+      "실물 포트폴리오"
+    ]
+  },
+  {
+    "id": "org_galaxia",
+    "name": "갤럭시아머니트리(갤럭시아넥스트)",
+    "shortName": "갤럭시아머니트리",
+    "englishName": "Galaxia Moneytree",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "효성그룹 계열 핀테크, 항공금융·풍력발전·경주마 STO 컨소시엄 주관",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "신한투자증권, 유진투자증권 등과 함께 신종 실물자산(항공기 엔진, 신재생에너지) STO 발행 추진",
+    "keyBusinessAreas": [
+      "항공금융 STO",
+      "신재생에너지 토큰화",
+      "전자결제 인프라"
+    ]
+  },
+  {
+    "id": "org_treasurer",
+    "name": "트레져러(Treasurer)",
+    "shortName": "트레져러",
+    "englishName": "Treasurer Inc.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "명품 시계, 고급 와인, 귀금속 등 실물 수집품 조각투자 플랫폼",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "NH투자증권 STO 비전그룹 공식 참여 및 키움증권 계좌관리 연계",
+    "keyBusinessAreas": [
+      "수집품 조각투자",
+      "명품 시계/와인 STO",
+      "인공지능 가치산정"
+    ]
+  },
+  {
+    "id": "org_fundful",
+    "name": "펀더풀(Fundful)",
+    "shortName": "펀더풀",
+    "englishName": "Fundful Inc.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "영화, 드라마, 공연 등 K-콘텐츠 문화금융 전문 플랫폼",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "한국투자증권 ST 프렌즈 핵심 파트너로 K-콘텐츠 투자계약증권 및 정산 인프라 연동",
+    "keyBusinessAreas": [
+      "K-콘텐츠 조각투자",
+      "영화/공연 STO",
+      "문화금융 투자계약증권"
+    ]
+  },
+  {
+    "id": "org_sk_sec",
+    "name": "SK증권",
+    "shortName": "SK증권",
+    "englishName": "SK Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 최초 카사코리아 1호 빌딩 공모를 주관한 1세대 STO 선도 증권사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "카사 1~2호 공모 주관, 펀블 부동산 DABS 발행 협력 및 코스콤 분산원장 공동망 합류",
+    "keyBusinessAreas": [
+      "부동산 DABS 공모",
+      "조각투자 계좌관리",
+      "코스콤 공동플랫폼"
+    ]
+  },
+  {
+    "id": "org_db_sec",
+    "name": "DB금융투자",
+    "shortName": "DB금투",
+    "englishName": "DB Financial Investment Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "코스콤 토큰증권 공동인프라 컨소시엄 참여사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "코스콤 토큰증권 공동플랫폼 참여 협약 체결 및 중소형사 공동 분산원장 활용",
+    "keyBusinessAreas": [
+      "토큰증권 발행 인프라",
+      "코스콤 분산원장 연동"
+    ]
+  },
+  {
+    "id": "org_ibk_sec",
+    "name": "IBK투자증권",
+    "shortName": "IBK증권",
+    "englishName": "IBK Securities Co., Ltd.",
+    "sector": "증권",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "중기특화 국책계열 증권사, 코스콤 STO 공동플랫폼 참여",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "중소·벤처기업 자산 토큰화 및 코스콤 토큰증권 공동플랫폼 구축 참여",
+    "keyBusinessAreas": [
+      "중소기업 자산 유동화",
+      "코스콤 STO 공동망"
+    ]
+  },
+  {
+    "id": "org_hyundai_sec",
+    "name": "현대차증권",
+    "shortName": "현대차증권",
+    "englishName": "Hyundai Motor Securities",
+    "sector": "증권",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "현대차그룹 계열 금융투자사, 코스콤 STO 공동플랫폼 참여",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "모빌리티 및 신재생에너지 인프라 자산 토큰화 검토 및 코스콤 공동망 연동",
+    "keyBusinessAreas": [
+      "인프라 자산 토큰화",
+      "코스콤 STO 공동망"
+    ]
+  },
+  {
+    "id": "org_woori_bank",
+    "name": "우리은행",
+    "shortName": "우리은행",
+    "englishName": "Woori Bank",
+    "sector": "은행",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "우리금융그룹 핵심 은행 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "코인플러그와 디지털자산 수탁 합작법인(디기탈리스) 설립, 한국은행 프로젝트 한강 2단계 참가",
+    "keyBusinessAreas": [
+      "예금토큰(CBDC)",
+      "가상자산 수탁",
+      "디지털 결제망"
+    ]
+  },
+  {
+    "id": "org_nh_bank",
+    "name": "NH농협은행",
+    "shortName": "농협은행",
+    "englishName": "NH NongHyup Bank",
+    "sector": "은행",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "NH농협금융그룹 핵심 은행 계열사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "빗썸 가상자산 원화 실명계좌 제휴 독점 운영, 카르도(수탁 JV) 지분 보유, 프로젝트 한강 참가",
+    "keyBusinessAreas": [
+      "원화 실명계좌(빗썸)",
+      "가상자산 수탁(카르도)",
+      "예금토큰 실증"
+    ]
+  },
+  {
+    "id": "org_ibk_bank",
+    "name": "IBK기업은행",
+    "shortName": "기업은행",
+    "englishName": "Industrial Bank of Korea",
+    "sector": "은행",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국책 중소기업 특화 은행",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "한국은행 프로젝트 한강 2단계 실증 참여 및 중소기업 디지털 공급망 금융 연계",
+    "keyBusinessAreas": [
+      "예금토큰(CBDC)",
+      "디지털 공급망 결제"
+    ]
+  },
+  {
+    "id": "org_jeonbuk_bank",
+    "name": "전북은행",
+    "shortName": "전북은행",
+    "englishName": "Jeonbuk Bank (JB Financial)",
+    "sector": "은행",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "JB금융그룹 은행, 고팍스 원화 실명계좌 제휴 및 NH 비전그룹 참여",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "가상자산거래소 고팍스 실명계좌 제휴사 및 NH투자증권 STO 비전그룹 금융 파트너",
+    "keyBusinessAreas": [
+      "원화 실명계좌(고팍스)",
+      "지방은행 STO 연계"
+    ]
+  },
+  {
+    "id": "org_cardo",
+    "name": "카르도(Cardo)",
+    "shortName": "카르도",
+    "englishName": "Cardo Inc.",
+    "sector": "수탁사",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "NH농협은행과 헥슬란트 등이 공동 설립한 제도권 가상자산 수탁사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "NH농협은행이 지분 투자한 법인용 디지털자산 커스터디 서비스 운영",
+    "keyBusinessAreas": [
+      "기관용 가상자산 수탁",
+      "디지털자산 커스터디",
+      "ISMS 인증"
+    ]
+  },
+  {
+    "id": "org_coinplug",
+    "name": "코인플러그(Coinplug)",
+    "shortName": "코인플러그",
+    "englishName": "Coinplug Inc.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 1세대 블록체인 기업, 우리은행 수탁사 디기탈리스 설립 및 메타디움 메인넷",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "우리은행과 디지털자산 수탁 합작사 디기탈리스 설립, 미래에셋 NFI 연합 및 DID 인증 인프라 제공",
+    "keyBusinessAreas": [
+      "분산신원증명(DID)",
+      "토큰증권 인프라",
+      "디지털자산 수탁"
+    ]
+  },
+  {
+    "id": "org_hexlant",
+    "name": "헥슬란트(Hexlant)",
+    "shortName": "헥슬란트",
+    "englishName": "Hexlant Inc.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "블록체인 지갑 및 노드 인프라 '옥텟(Octet)' 공급사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "농협은행과 수탁사 카르도 설립 주도, 증권사용 옥텟 지갑 및 스마트컨트랙트 공급",
+    "keyBusinessAreas": [
+      "블록체인 지갑(옥텟)",
+      "가상자산 수탁 인프라",
+      "보안 노드"
+    ]
+  },
+  {
+    "id": "org_openasset",
+    "name": "오픈에셋(OpenAsset)",
+    "shortName": "오픈에셋",
+    "englishName": "OpenAsset Inc.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "한국투자증권 ST 프렌즈 분산원장 엔진 및 스마트컨트랙트 코어 개발사",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "한국투자증권과 손잡고 토큰증권 전용 프라이빗 블록체인 코어 및 예탁결제원 연동 인터페이스 개발",
+    "keyBusinessAreas": [
+      "토큰증권 분산원장 코어",
+      "스마트컨트랙트",
+      "예탁원 연동 프로토콜"
+    ]
+  },
+  {
+    "id": "org_pairsquare",
+    "name": "페어스퀘어랩(Fairsquare Lab)",
+    "shortName": "페어스퀘어랩",
+    "englishName": "Fairsquare Lab Inc.",
+    "sector": "핀테크",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "키움증권 STO 플랫폼 구축 주관 기술 파트너",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "키움증권의 자체 토큰증권 발행·유통 시스템 및 조각투자 연계 노드 개발 총괄",
+    "keyBusinessAreas": [
+      "STO 분산원장 솔루션",
+      "발행·유통 플랫폼 개발",
+      "계좌관리 연동"
+    ]
+  },
+  {
+    "id": "org_bithumb",
+    "name": "빗썸(Bithumb)",
+    "shortName": "빗썸",
+    "englishName": "Bithumb Korea",
+    "sector": "가상자산사업자",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 2위 가상자산거래소 (NH농협은행 및 KB국민은행 실명계좌 제휴)",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "NH농협은행과 실명계좌 제휴 운영 및 KB국민은행과의 제휴 전환 협의 추진",
+    "keyBusinessAreas": [
+      "원화마켓 가상자산 거래",
+      "법인 실명계좌 대응",
+      "VASP"
+    ]
+  },
+  {
+    "id": "org_coinone",
+    "name": "코인원(Coinone)",
+    "shortName": "코인원",
+    "englishName": "Coinone Inc.",
+    "sector": "가상자산사업자",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "국내 3위 원화마켓 가상자산거래소 (카카오뱅크 실명계좌 제휴)",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "카카오뱅크와 독점 원화 입출금 실명계정 제휴를 통해 빠른 이용자 유입 지속",
+    "keyBusinessAreas": [
+      "원화마켓 가상자산 거래",
+      "카카오뱅크 간편 연동",
+      "VASP"
+    ]
+  },
+  {
+    "id": "org_gopax",
+    "name": "고팍스(GOPAX)",
+    "shortName": "고팍스",
+    "englishName": "GOPAX (Streami)",
+    "sector": "가상자산사업자",
+    "parentOrgId": null,
+    "previousNames": [],
+    "disambiguationNote": "전북은행 원화 실명계좌 제휴 5대 거래소",
+    "investigationStatus": "조사완료",
+    "lastVerifiedAt": "2026-10-12",
+    "summary": "전북은행과 원화 입출금 계정 제휴 운영 및 바이낸스 지분 인수 절차 진행",
+    "keyBusinessAreas": [
+      "원화마켓 가상자산 거래",
+      "전북은행 계좌 연동",
+      "VASP"
+    ]
+  }
+]
