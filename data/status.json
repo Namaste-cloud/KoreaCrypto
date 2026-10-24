@@ -1,8 +1,8 @@
 {
   "systemStatus": "정상 가동 중",
   "timezone": "Asia/Seoul (KST)",
-  "lastAttemptAt": "2026-10-25T05:37:48+09:00",
-  "lastSuccessAt": "2026-10-25T05:37:55+09:00",
+  "lastAttemptAt": "2026-10-25T07:59:37+09:00",
+  "lastSuccessAt": "2026-10-25T07:59:44+09:00",
   "lastDataChangeAt": "2026-10-12T18:30:00+09:00",
   "schedule": "매 1시간마다 (GitHub Actions 자동 실행)",
   "collectorHealth": {
