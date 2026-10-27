@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261027_b229",
+    "discoveredAt": "2026-10-27T16:30:26+09:00",
+    "title": "예금토큰 상용화 속도내는 한은, 이르면 9월부터 실거래 착수(종합)",
+    "publisher": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43OU5xYVZLaGN0ZENrNXYwMkx0T3F2UmcwaWZJY1k5V3E4MGZkNFBNUk1CU2VpSVVMXzdOREpsNmU5WWFQb1hoc0xRY3JMak1SYk15ZFhPTlM3eVHSAWBBVV95cUxQbG5pYVh0TGFvTHBTQmtzN2FNNE5GclZsa1lKM0J5VU9La0o1T0lsWHJ4QWZIMTE5YkE0UkgyZ3Nud0IzQVZScFlYNHlTVWotZFZKTlo3bE5NUm83SVRMZWo?oc=5",
+    "matchedEntities": [
+      "org_bok"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[연합뉴스] 보도: '예금토큰 상용화 속도내는 한은, 이르면 9월부터 실거래 착수(종합)' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261027_bc0b",
     "discoveredAt": "2026-10-27T10:17:05+09:00",
     "title": "예금토큰 상용화 속도내는 한은, 이르면 9월부터 실거래 재개",

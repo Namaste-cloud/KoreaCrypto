@@ -1,5 +1,19 @@
 [
   {
+    "id": "chg_20261027_09",
+    "timestamp": "2026-10-27T16:30:26+09:00",
+    "targetType": "project",
+    "targetId": "proj_kb_sto_v2",
+    "targetName": "기관 디지털자산 시장 동향 모니터",
+    "field": "시장 신호 자동 수집 동기화",
+    "oldValue": null,
+    "newValue": "신규 기사 '금결원, ‘프로젝트 한강’ 확대 앞서 예금토큰 보안점검 용역 발주' 등 5건 수집 반영",
+    "changeType": "정보 갱신",
+    "evidenceSourceId": "src_auto_7c860c25",
+    "appliedMode": "자동 수집(검토 큐 연계)",
+    "summary": "자동 수집기를 통해 '뉴스토마토' 등에서 최신 동향 기사 5건이 신규 탐지되어 검토 대기열에 등록되었습니다."
+  },
+  {
     "id": "chg_20261027_08",
     "timestamp": "2026-10-27T10:17:05+09:00",
     "targetType": "project",
