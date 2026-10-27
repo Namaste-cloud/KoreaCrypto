@@ -1,5 +1,57 @@
 [
   {
+    "id": "rev_20261027_bc0b",
+    "discoveredAt": "2026-10-27T10:17:05+09:00",
+    "title": "예금토큰 상용화 속도내는 한은, 이르면 9월부터 실거래 재개",
+    "publisher": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BczVma2NfUjRhSXZvSUVkYVlGNDM2NHA0bnFKbGFLSWNoNWtlNFNjWFl1aElPUjR4UWV6RFZ6MXp3UjAzSVNBclk5RWJOdm9EOElMQTdpblZ3cmvSAWBBVV95cUxQTjZwT1lCV1M5aktjb2dqM0RoWk55UTU2c0k4OGEtM1d1aGNCQ1FHbFU4T1YxaVV0eFhRUFNnSl9ZYjkyLW5OUWJKdXBNVUJyNHZ2eTd2VkFhakZrUHpSQUc?oc=5",
+    "matchedEntities": [
+      "org_bok"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[연합뉴스] 보도: '예금토큰 상용화 속도내는 한은, 이르면 9월부터 실거래 재개' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261027_7cd0",
+    "discoveredAt": "2026-10-27T10:17:05+09:00",
+    "title": "주식·채권도 토큰증권 발행 허용…금융위 입법예고",
+    "publisher": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OR0J6MHZEdjQ1bGtrckxUeFBjQXRnaDY4c3B1VDdlandRcldkbGxnMEZfaHFVLWl3djF3Q0ZTUE5rYnJKd1Mtd2xoNlYwamZaYUloNVpndlgwbkVmbHV6YdIBeEFVX3lxTE53bk1oQ3YtY3BFYnFFNlVVUnlSSlJsLXJHS3dZR2VNVDRucXlvdzNCTEFBckVLQ05Rb3pXWHpSVVpZYUtrSFdad1pXX3k4SFk2Y01yOER4Z25SNlM4bS05QTROc200Y2pxdEk2YVBxcGpHM0Vtc0o1Tw?oc=5",
+    "matchedEntities": [
+      "org_fsc"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[뉴시스] 보도: '주식·채권도 토큰증권 발행 허용…금융위 입법예고' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261027_227a",
+    "discoveredAt": "2026-10-27T10:17:05+09:00",
+    "title": "KB증권, 캔톤재단·웨이브릿지와 'STO·디지털자산 인프라 표준 모델' 구축",
+    "publisher": "프라임경제",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBES0V4eVdEQzR5aHFobGx4ZHFURC1Ib3ZnRFJHNDk4ZDBva3d4LU5iSnZLMU1oOENxOUpoYjA2aTVzUGR1X24yYkdUdnJfT0t3cFlsdW54cVVpZXVWWmFFbnZJOA?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[프라임경제] 보도: 'KB증권, 캔톤재단·웨이브릿지와 'STO·디지털자산 인프라 표준 모델' 구축' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261027_8ea8",
+    "discoveredAt": "2026-10-27T10:17:05+09:00",
+    "title": "[증권가 가상자산지도] [KB증권] 그룹 계열사, 따로 또 같이…'시너지' 모색",
+    "publisher": "DealSite경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41bHBnNldpdkxhY2tpenhwNnlNeGh0a2gwdEFsTjcxRWdMUVoxWDN3eVNsXzlncHRqSW9JeHdjc2Q4dWR4LUM2VnU4d3NGeW8tMngyR1hn?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[DealSite경제TV] 보도: '[증권가 가상자산지도] [KB증권] 그룹 계열사, 따로 또 같이…'시너지' 모색' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261027_4548",
     "discoveredAt": "2026-10-27T08:59:45+09:00",
     "title": "코스콤 토큰증권 플랫폼 공개…증권사 13곳 부담 던다",
