@@ -1,5 +1,20 @@
 [
   {
+    "id": "rev_20261028_e3c1",
+    "discoveredAt": "2026-10-28T04:55:20+09:00",
+    "title": "[포커스] 'STO 주도권' 누가 쥘까…KB·신한·하나證, 주도권 싸움 치열",
+    "publisher": "오늘경제",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FZ0pEMTNNYnVZcm9wYXdPSlpONGZKUHBzR3V5S1lKTjY4emV2TVJxUW14WUxFeFpKUm5HbndFNS1pYXFsYnhwTi1OVjVYZUlBbkhnMTNndUstVXJlMjJkTEowWkkzY2hZZDFjOEM3cnBSYzA?oc=5",
+    "matchedEntities": [
+      "org_kb_sec",
+      "org_shinhan_fg",
+      "org_hana_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[오늘경제] 보도: '[포커스] 'STO 주도권' 누가 쥘까…KB·신한·하나證, 주도권 싸움 치열' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261027_b229",
     "discoveredAt": "2026-10-27T16:30:26+09:00",
     "title": "예금토큰 상용화 속도내는 한은, 이르면 9월부터 실거래 착수(종합)",

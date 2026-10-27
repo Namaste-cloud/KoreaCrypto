@@ -1,9 +1,9 @@
 {
   "systemStatus": "정상 가동 중",
   "timezone": "Asia/Seoul (KST)",
-  "lastAttemptAt": "2026-10-27T23:09:57+09:00",
-  "lastSuccessAt": "2026-10-27T23:09:57+09:00",
-  "lastDataChangeAt": "2026-10-27T16:30:26+09:00",
+  "lastAttemptAt": "2026-10-28T04:55:20+09:00",
+  "lastSuccessAt": "2026-10-28T04:55:20+09:00",
+  "lastDataChangeAt": "2026-10-28T04:55:20+09:00",
   "schedule": "매 1시간마다 (GitHub Actions 자동 실행)",
   "collectorHealth": {
     "fsc_crawler": "정상 (200 OK)",
@@ -16,9 +16,9 @@
     "totalProjects": 17,
     "totalPolicies": 7,
     "totalRelations": 53,
-    "totalSources": 76,
+    "totalSources": 77,
     "totalEvents": 14,
-    "totalChangelogs": 9,
-    "pendingReviewCount": 25
+    "totalChangelogs": 10,
+    "pendingReviewCount": 26
   }
 }
