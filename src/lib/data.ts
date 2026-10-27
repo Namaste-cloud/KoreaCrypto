@@ -170,7 +170,7 @@ export const getProjectsForPolicy = (policyId: string): Project[] => {
 
 export const isOutdated = (dateStr: string, daysThreshold = 180): boolean => {
   const date = new Date(dateStr);
-  const now = new Date('2026-10-13');
+  const now = new Date();
   const diffTime = Math.abs(now.getTime() - date.getTime());
   const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
   return diffDays > daysThreshold;
