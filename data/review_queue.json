@@ -1,5 +1,31 @@
 [
   {
+    "id": "rev_20261028_75a9",
+    "discoveredAt": "2026-10-28T13:46:42+09:00",
+    "title": "한은 CBDC 실증 2단계 앞두고 은행권 분주…예금토큰, 보조금 집행도 검증대에",
+    "publisher": "녹색경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Qm8wWVNjU3dVcFBhZnNJNFc0OTVhWWJvTF9sdHotT0NycUgyVGFMM0NLal9QUi1hOGkwVWdGcTA3eUpkSmN6ZTZIbFpQYU5jZkR0LTI2TzVlS05aaWw4MzAwRnF1NG8t?oc=5",
+    "matchedEntities": [
+      "org_bok"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[녹색경제신문] 보도: '한은 CBDC 실증 2단계 앞두고 은행권 분주…예금토큰, 보조금 집행도 검증대에' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261028_6079",
+    "discoveredAt": "2026-10-28T13:46:42+09:00",
+    "title": "KB증권·캔톤 재단·웨이브릿지, 분산원장 기반 디지털자산 인프라 구축",
+    "publisher": "중소기업신문",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50enBQWFJGcVZMd0pwRy1EQnNFUFdfM0t0cnBSa184bEttSHlRVEZNbGpSR0ZCYldIVjB1Ulk0LTNoOTlRWW1ocU1LcmVjcXhOU01ZejZUSkVzblhQZ29jU0M1V21PdkxWTVVIZVlB?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[중소기업신문] 보도: 'KB증권·캔톤 재단·웨이브릿지, 분산원장 기반 디지털자산 인프라 구축' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261028_e3c1",
     "discoveredAt": "2026-10-28T04:55:20+09:00",
     "title": "[포커스] 'STO 주도권' 누가 쥘까…KB·신한·하나證, 주도권 싸움 치열",
