@@ -1,5 +1,19 @@
 [
   {
+    "id": "rev_20261028_8e8f",
+    "discoveredAt": "2026-10-28T20:07:11+09:00",
+    "title": "신한은행, 프로젝트 한강 2단계 실거래 앞두고 예금토큰 사업 로드맵 수립",
+    "publisher": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT2NLajd1XzVsMjA5dFJPWndmOXJ4Ri1yUWtDTWFFb3R5cTN6R1NaR1lEWjYtLVFWRXN3Nk8xOU5sMXJGcjNtMUlONFU4bHEtOUgzNGVoLUtQeldtOVJ5SnhENl8xN3dacGY1RTlfTV85WEpRS0ozUGt1OERhZENaX9IBlAFBVV95cUxPRlJ6Rll0dmlKU0RHMm9XX204SXNDdUJ4MlZkVHk5U1hWUHE1N2xlTWJGakE1dVJsb2hUODluak1hNXRZc0tBOWxiRm5DbWtmazF5YkRNZjBFalBsa2t6dU1FTGU1X1QzMjZJaVB2WGl2NGxrQVRNRVJuVEZydE9IMVdrdGR6ellwXzB5d2RublJ3RkE3?oc=5",
+    "matchedEntities": [
+      "org_shinhan_fg",
+      "org_bok"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[Chosunbiz] 보도: '신한은행, 프로젝트 한강 2단계 실거래 앞두고 예금토큰 사업 로드맵 수립' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261028_75a9",
     "discoveredAt": "2026-10-28T13:46:42+09:00",
     "title": "한은 CBDC 실증 2단계 앞두고 은행권 분주…예금토큰, 보조금 집행도 검증대에",

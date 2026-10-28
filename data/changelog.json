@@ -1,5 +1,19 @@
 [
   {
+    "id": "chg_20261028_13",
+    "timestamp": "2026-10-28T20:07:11+09:00",
+    "targetType": "project",
+    "targetId": "proj_kb_sto_v2",
+    "targetName": "기관 디지털자산 시장 동향 모니터",
+    "field": "시장 신호 자동 수집 동기화",
+    "oldValue": null,
+    "newValue": "신규 기사 '신한은행, 프로젝트 한강 2단계 실거래 앞두고 예금토큰 사업 로드맵 수립' 등 5건 수집 반영",
+    "changeType": "정보 갱신",
+    "evidenceSourceId": "src_auto_8e8f33e6",
+    "appliedMode": "자동 수집(검토 큐 연계)",
+    "summary": "자동 수집기를 통해 'Chosunbiz' 등에서 최신 동향 기사 5건이 신규 탐지되어 검토 대기열에 등록되었습니다."
+  },
+  {
     "id": "chg_20261028_12",
     "timestamp": "2026-10-28T13:46:42+09:00",
     "targetType": "project",
