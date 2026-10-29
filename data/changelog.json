@@ -1,5 +1,19 @@
 [
   {
+    "id": "chg_20261029_16",
+    "timestamp": "2026-10-29T11:20:37+09:00",
+    "targetType": "project",
+    "targetId": "proj_kb_sto_v2",
+    "targetName": "기관 디지털자산 시장 동향 모니터",
+    "field": "시장 신호 자동 수집 동기화",
+    "oldValue": null,
+    "newValue": "신규 기사 '비자, 스테이블코인 결제 연환산 250억 달러 돌파…1년 새 10배 성장' 등 1건 수집 반영",
+    "changeType": "정보 갱신",
+    "evidenceSourceId": "src_auto_65fecb57",
+    "appliedMode": "자동 수집(검토 큐 연계)",
+    "summary": "자동 수집기를 통해 '블록체인투데이' 등에서 최신 동향 기사 1건이 신규 탐지되어 검토 대기열에 등록되었습니다."
+  },
+  {
     "id": "chg_20261029_15",
     "timestamp": "2026-10-29T07:59:36+09:00",
     "targetType": "project",
