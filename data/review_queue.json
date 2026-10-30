@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261030_9756",
+    "discoveredAt": "2026-10-30T10:42:24+09:00",
+    "title": "KB증권 \"깨비AI 사업화 추진...토큰증권으로 美 고자산가 겨냥\"",
+    "publisher": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uOXQtYlphWFROWWRnRlplakllZ2hwczhmeWt3NTVVMzhDOVhUM1BJQmo3N2NWc05FN255OUUtNGFtTTg2ZVY1YXRzQm9TYkd0bmFUem1qVWtSNi1WcGhHVmhKR25DbEZSemJ5VXZSTkt6MUk?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[디지털투데이] 보도: 'KB증권 \"깨비AI 사업화 추진...토큰증권으로 美 고자산가 겨냥\"' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261029_ee08",
     "discoveredAt": "2026-10-29T18:36:49+09:00",
     "title": "KB증권, 3분기 누적 순이익 1조 돌파…분기 실적은 39% 감소",
