@@ -1,5 +1,19 @@
 [
   {
+    "id": "chg_20261031_22",
+    "timestamp": "2026-10-31T22:27:34+09:00",
+    "targetType": "project",
+    "targetId": "proj_kb_sto_v2",
+    "targetName": "기관 디지털자산 시장 동향 모니터",
+    "field": "시장 신호 자동 수집 동기화",
+    "oldValue": null,
+    "newValue": "신규 기사 '“은행 지분 50%+1” 한은 선언…원화 스테이블코인 ‘격돌’' 등 2건 수집 반영",
+    "changeType": "정보 갱신",
+    "evidenceSourceId": "src_auto_e225b9de",
+    "appliedMode": "자동 수집(검토 큐 연계)",
+    "summary": "자동 수집기를 통해 '파이낸셜투데이' 등에서 최신 동향 기사 2건이 신규 탐지되어 검토 대기열에 등록되었습니다."
+  },
+  {
     "id": "chg_20261031_21",
     "timestamp": "2026-10-31T09:33:17+09:00",
     "targetType": "project",
