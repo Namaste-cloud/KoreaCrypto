@@ -1,5 +1,31 @@
 [
   {
+    "id": "rev_20261102_55f0",
+    "discoveredAt": "2026-11-02T16:27:56+09:00",
+    "title": "코스콤, '코리아 핀테크 위크 2026'서 토큰증권 공동플랫폼 공개",
+    "publisher": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05UTRlRk4wRS1vdFRwR1FQelRIOFJsaFdsS01zQnRiZi1WNHFZSkN2SlR0N2RkUUFLY2x0ZkhndnZvTUoxeUNuSjRwcUhYUm9Na2JuMHgtOVhoV1V6LXBEeQ?oc=5",
+    "matchedEntities": [
+      "org_koscom"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[아시아경제] 보도: '코스콤, '코리아 핀테크 위크 2026'서 토큰증권 공동플랫폼 공개' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261102_a06e",
+    "discoveredAt": "2026-11-02T16:27:56+09:00",
+    "title": "두나무, 10일 디지털자산 정책 콘퍼런스 ‘디콘 2026’ 개최",
+    "publisher": "부산일보",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sYjZhRElGZWkxUFdON0JFeV8zMHUxa3JjbmppY1VGMkZaMVBIY2FyQTNKQ2VyQzQ4Mml3eUY4cGZmc2Z6T3pHYXBfbjJzOG1LU3AtdUYwZnp5VnVSMDE3QVhscFJzajVod1RYZWItRTltV1lOb05Udg?oc=5",
+    "matchedEntities": [
+      "org_upbit"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[부산일보] 보도: '두나무, 10일 디지털자산 정책 콘퍼런스 ‘디콘 2026’ 개최' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261031_e225",
     "discoveredAt": "2026-10-31T22:27:34+09:00",
     "title": "“은행 지분 50%+1” 한은 선언…원화 스테이블코인 ‘격돌’",
