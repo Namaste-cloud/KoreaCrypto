@@ -1,5 +1,31 @@
 [
   {
+    "id": "rev_20261103_da67",
+    "discoveredAt": "2026-11-03T02:59:32+09:00",
+    "title": "금융위 \"디지털자산기본법 최대한 신속 추진\"",
+    "publisher": "비즈워치",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xN0dXNFhFMVU2QkprMGR5UTRCblppcmdZSWNqcHcxdmNwbFlIT3BtTUxaZ3lia2w5MmdLZ0dZc3k5Y0lTYjJNd2NaMGR6WW9xbGJfbklTcGU3VVVoUEpSN3dBdWJjV2dyOUxv?oc=5",
+    "matchedEntities": [
+      "org_fsc"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[비즈워치] 보도: '금융위 \"디지털자산기본법 최대한 신속 추진\"' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261103_642e",
+    "discoveredAt": "2026-11-03T02:59:32+09:00",
+    "title": "KB증권, 캔톤 재단·웨이브릿지와 디지털자산 인프라 구축 업무협약 체결",
+    "publisher": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEhJV3BEM1ZVOFlUVWhId282NGVfaTBTaUM0NVI0ZE1iQ0tRdm1JcWNBSktBNWlNTkFPRzFDWjVNakFVWlM3bHF5dF9waHNCMk5IZXhsNThMaEc4ZU5MdHBHWjV4TmdGTEpmaDIwNWF4aEZVTHN1V0lnb3drZ1MyRlZ3aGlmQmtm0gGcAUFVX3lxTE4ya3FGbVBELTJtSVdRQXdrdERWaVJIYW9yOURZYTZYeEt4anlkOEtMY2thSV9zM3RPNXhnTXpRZnN6c3R6c2dCX1RzTUE5RjVpM3B6NDJQbzVpZkZzTkpNSnF6WWhjOGpCVDV2aU16SkdvcmNsbHhkbXd1ZXBKX3dmX2szTGY2R3hVNDJJR2h4aVV5VHlxXzA5ZkVtVQ?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[Chosunbiz] 보도: 'KB증권, 캔톤 재단·웨이브릿지와 디지털자산 인프라 구축 업무협약 체결' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261102_55f0",
     "discoveredAt": "2026-11-02T16:27:56+09:00",
     "title": "코스콤, '코리아 핀테크 위크 2026'서 토큰증권 공동플랫폼 공개",
