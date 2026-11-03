@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261103_4036",
+    "discoveredAt": "2026-11-03T09:54:16+09:00",
+    "title": "예금토큰 ‘실거래’ 초읽기...한은, ‘프로젝트 한강’ 2단계 속도",
+    "publisher": "에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tbXhlbXpFLWtUUXZ2dk5iRkVCVXIzbnliT1hGTDl5RWNPdGZIa1RGRnBITC1zNmNSRlotei1iSnB6RzY3M24za2hJN1R0UUJPaTNxYWZDQXU5elE?oc=5",
+    "matchedEntities": [
+      "org_bok"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[에너지경제신문] 보도: '예금토큰 ‘실거래’ 초읽기...한은, ‘프로젝트 한강’ 2단계 속도' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261103_da67",
     "discoveredAt": "2026-11-03T02:59:32+09:00",
     "title": "금융위 \"디지털자산기본법 최대한 신속 추진\"",
