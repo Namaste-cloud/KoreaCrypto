@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261105_e64f",
+    "discoveredAt": "2026-11-05T08:24:17+09:00",
+    "title": "토큰증권 시대 열린다…코스콤, 증권사 12곳 손잡고 ‘공동 발행소’ 구축",
+    "publisher": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53UWYxV2w4UzNzWnh5QTBSOFRraS1MSEw5ZFlKQ1JlczAxM0RQYUZ5Z0hsWnJFSUNkTzJXb0pOczZkU3V6RkpIM3ROZUhXNDJNR1E?oc=5",
+    "matchedEntities": [
+      "org_koscom"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[매일경제] 보도: '토큰증권 시대 열린다…코스콤, 증권사 12곳 손잡고 ‘공동 발행소’ 구축' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261105_cddf",
     "discoveredAt": "2026-11-05T02:06:46+09:00",
     "title": "증권사, 'STO 독자 플랫폼' 구축 러시…코스콤 \"우리도 정형증권 검토\"",
