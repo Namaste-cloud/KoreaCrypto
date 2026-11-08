@@ -1,5 +1,19 @@
 [
   {
+    "id": "chg_20261108_39",
+    "timestamp": "2026-11-08T23:52:28+09:00",
+    "targetType": "project",
+    "targetId": "proj_kb_sto_v2",
+    "targetName": "기관 디지털자산 시장 동향 모니터",
+    "field": "시장 신호 자동 수집 동기화",
+    "oldValue": null,
+    "newValue": "신규 기사 '디지털자산법 정부안 이달 나온다…거래소 규제는 단계 적용…은행 중심 스테이블코인 컨소시엄…' 등 1건 수집 반영",
+    "changeType": "정보 갱신",
+    "evidenceSourceId": "src_auto_8108d38e",
+    "appliedMode": "자동 수집(검토 큐 연계)",
+    "summary": "자동 수집기를 통해 '재경일보' 등에서 최신 동향 기사 1건이 신규 탐지되어 검토 대기열에 등록되었습니다."
+  },
+  {
     "id": "chg_20261108_38",
     "timestamp": "2026-11-08T16:00:06+09:00",
     "targetType": "project",
