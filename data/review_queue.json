@@ -1,5 +1,31 @@
 [
   {
+    "id": "rev_20261111_c100",
+    "discoveredAt": "2026-11-11T01:52:37+09:00",
+    "title": "현대차증권도 코스콤 토큰증권 공동플랫폼 참여",
+    "publisher": "비즈워치",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqUlEwUjBCamNxVFJKRWJ2MnFSWE9iY21WcnJmbG9QR29Ub2ZZSEdYZ05iXzNzMGdhUHdJbVVxODdOMkprTzR0TzFJMXNvY1d2VUt1OFEtTnFVVHljQ0FUZG1CWERDTF9yTUE?oc=5",
+    "matchedEntities": [
+      "org_koscom"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[비즈워치] 보도: '현대차증권도 코스콤 토큰증권 공동플랫폼 참여' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261111_0bf9",
+    "discoveredAt": "2026-11-11T01:52:37+09:00",
+    "title": "[현장] 두나무 D-CON서 여야 “디지털자산 제도화 서둘러야”…원화 스테이블코인 경쟁력 강조",
+    "publisher": "CEO스코어데일리",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LYmEyZXZFM2t5UXhJZGd1dGFsSXVXc3FyUVhFdUV2aXZ1ck9rS1dKUEdza1FIdzMyTHE5LXpSS0hYdnBzWnlySnJyNTJSNU1FMW9rRTZiMjkwYUlRMVpZSlFQVk5oYXc?oc=5",
+    "matchedEntities": [
+      "org_upbit"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[CEO스코어데일리] 보도: '[현장] 두나무 D-CON서 여야 “디지털자산 제도화 서둘러야”…원화 스테이블코인 경쟁력 강조' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261110_6f7f",
     "discoveredAt": "2026-11-10T17:05:35+09:00",
     "title": "미래에셋·신한투자, 증권업계서 토큰증권 선점 가속화",
