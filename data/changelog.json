@@ -1,5 +1,19 @@
 [
   {
+    "id": "chg_20261110_43",
+    "timestamp": "2026-11-10T17:05:35+09:00",
+    "targetType": "project",
+    "targetId": "proj_kb_sto_v2",
+    "targetName": "기관 디지털자산 시장 동향 모니터",
+    "field": "시장 신호 자동 수집 동기화",
+    "oldValue": null,
+    "newValue": "신규 기사 '미래에셋·신한투자, 증권업계서 토큰증권 선점 가속화' 등 6건 수집 반영",
+    "changeType": "정보 갱신",
+    "evidenceSourceId": "src_auto_6f7fc1d6",
+    "appliedMode": "자동 수집(검토 큐 연계)",
+    "summary": "자동 수집기를 통해 '중앙신문' 등에서 최신 동향 기사 6건이 신규 탐지되어 검토 대기열에 등록되었습니다."
+  },
+  {
     "id": "chg_20261110_42",
     "timestamp": "2026-11-10T09:00:22+09:00",
     "targetType": "project",

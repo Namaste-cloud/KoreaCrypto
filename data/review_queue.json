@@ -1,5 +1,19 @@
 [
   {
+    "id": "rev_20261110_6f7f",
+    "discoveredAt": "2026-11-10T17:05:35+09:00",
+    "title": "미래에셋·신한투자, 증권업계서 토큰증권 선점 가속화",
+    "publisher": "중앙신문",
+    "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPTzRtLWxOSnl3c25yQ1g4d0RLeFFfWXJUYnFZa1VJQzNQaVI0RDRzaFNCYUtiTXI4Z0kxOThyOGRFS0RhVkx0NTctTGxLMzNCcE5tbGZtdHFIcUhHem9vLVlLX29xZUVxTFhJa3h4eW9xY0VVRHZRUjBOYUNnOC1vcWRtbWtqZm5PM0J6ZnNlZ1huVlBzOXl2Mzd3T0JqOGhWanc4WXhQTTJibEQxdnN2aHlqV0lfeG1HYy1ocVloZDRYdWNja09nbmFMdW1QVnlUWWVmeWNUT1YxakxpU3luRVdYVTdKWUhJYXJ4N1dOcWs2V212UTdDWDRSQXpLdnZtaUdfNFh2THJ5b01uR3JxX0NGU214TjRIYmNRYXZWYUZ3RjY5STE1SVRpM1MxTUNSdUZJV0MyRWRZQ0tfMExsWE5JMHQ1bnFsaUFtcS1lN180ZVVwM2NkYjhkb2hfcmFERDZhLWFCTQ?oc=5",
+    "matchedEntities": [
+      "org_shinhan_fg",
+      "org_mirae_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[중앙신문] 보도: '미래에셋·신한투자, 증권업계서 토큰증권 선점 가속화' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261110_4cdb",
     "discoveredAt": "2026-11-10T09:00:22+09:00",
     "title": "예금토큰 결제 연구에 카드사 가세…KB국민카드, 한은과 첫 협약",
