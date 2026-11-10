@@ -1,5 +1,19 @@
 [
   {
+    "id": "rev_20261110_4cdb",
+    "discoveredAt": "2026-11-10T09:00:22+09:00",
+    "title": "예금토큰 결제 연구에 카드사 가세…KB국민카드, 한은과 첫 협약",
+    "publisher": "포쓰저널",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtd0E2ZGlKampJQWRPZmFCTzhIb0ZRQlZweGdWN1FndHZoLV85b1NEUFJHR0daVVVlVmx4cjRTeGFSR1hURHJENzFMQUlVbWdFWmc0eVNTWFhETzJUeS1fc05jTDg?oc=5",
+    "matchedEntities": [
+      "org_kb_sec",
+      "org_bok"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[포쓰저널] 보도: '예금토큰 결제 연구에 카드사 가세…KB국민카드, 한은과 첫 협약' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261105_06cc",
     "discoveredAt": "2026-11-05T14:48:47+09:00",
     "title": "하나은행, 예금토큰 '실사용' 높인다…프로젝트 한강 2단계 본격 승부",
