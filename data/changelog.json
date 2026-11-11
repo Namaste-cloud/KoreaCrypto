@@ -1,5 +1,19 @@
 [
   {
+    "id": "chg_20261111_46",
+    "timestamp": "2026-11-11T11:37:25+09:00",
+    "targetType": "project",
+    "targetId": "proj_kb_sto_v2",
+    "targetName": "기관 디지털자산 시장 동향 모니터",
+    "field": "시장 신호 자동 수집 동기화",
+    "oldValue": null,
+    "newValue": "신규 기사 '금융위원회, 토큰증권 하위법규 개정안 입법예고…투자자 보호체계 정비' 등 6건 수집 반영",
+    "changeType": "정보 갱신",
+    "evidenceSourceId": "src_auto_537f8e3d",
+    "appliedMode": "자동 수집(검토 큐 연계)",
+    "summary": "자동 수집기를 통해 '퍼블릭뉴스통신' 등에서 최신 동향 기사 6건이 신규 탐지되어 검토 대기열에 등록되었습니다."
+  },
+  {
     "id": "chg_20261111_45",
     "timestamp": "2026-11-11T07:12:26+09:00",
     "targetType": "project",
