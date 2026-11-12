@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261112_7a57",
+    "discoveredAt": "2026-11-12T10:23:11+09:00",
+    "title": "코스콤 '토큰증권 공동플랫폼' 사고 책임·보상 기준 '미정'",
+    "publisher": "세이프타임즈",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53YnhyODFPQ1FNb3l6U2phbWZHbmhzdmlNbnBEcWFSdHE1U25NZGhzbFpXN1g3MjNZeHdNTlhqeXNQdlNHYmdaQk9uUGRCamhRZ3NQYWY4N2U1VUVVM1lad0RzM1pacUl3Z0dmeGlEZ9IBc0FVX3lxTE9YRXk0b1ZKRVUyb216SFVOeElDWG1USUJNN2hhNUZBZkhKdGRRelY3aXh2SzFiMW5qRjZ1WklYRkVWRnlHNW1uZVVOUzhUSHZSMUNqTUlMTjNwR0hIcHFJUXFSVHFEMzM5TmFSZWY5ZG94czQ?oc=5",
+    "matchedEntities": [
+      "org_koscom"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[세이프타임즈] 보도: '코스콤 '토큰증권 공동플랫폼' 사고 책임·보상 기준 '미정'' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261111_ab32",
     "discoveredAt": "2026-11-11T19:30:25+09:00",
     "title": "두나무, 디지털자산 정책 컨퍼런스 개최…원화 스테이블코인·기본법 제정 논의",
