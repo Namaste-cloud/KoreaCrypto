@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261114_bfbb",
+    "discoveredAt": "2026-11-14T06:16:13+09:00",
+    "title": "코스콤, 우리투자증권과 ’토큰증권 플랫폼 사업’ 협력",
+    "publisher": "연합뉴스TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qeERuYnZRSE44Z1NtOU9lSUpERFAydDM0TkQ4dkFOTkRsbFJhMy1jc183aUZMc1hkS2JKa0NKdTU4OVBrdGx1bVBqaDIxdHZuWHd2YmEwaWVzX3kyY1U0U1NIbThhSk0?oc=5",
+    "matchedEntities": [
+      "org_koscom"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[연합뉴스TV] 보도: '코스콤, 우리투자증권과 ’토큰증권 플랫폼 사업’ 협력' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261112_7a57",
     "discoveredAt": "2026-11-12T10:23:11+09:00",
     "title": "코스콤 '토큰증권 공동플랫폼' 사고 책임·보상 기준 '미정'",

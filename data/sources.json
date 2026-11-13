@@ -1,5 +1,65 @@
 [
   {
+    "id": "src_auto_bfbb7dcc",
+    "title": "코스콤, 우리투자증권과 ’토큰증권 플랫폼 사업’ 협력",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qeERuYnZRSE44Z1NtOU9lSUpERFAydDM0TkQ4dkFOTkRsbFJhMy1jc183aUZMc1hkS2JKa0NKdTU4OVBrdGx1bVBqaDIxdHZuWHd2YmEwaWVzX3kyY1U0U1NIbThhSk0?oc=5",
+    "publisher": "연합뉴스TV",
+    "docType": "언론 보도",
+    "publishedDate": "2026-05-13",
+    "eventDate": "2026-05-13",
+    "verifiedDate": "2026-11-14",
+    "evidenceLevel": "언론 보도",
+    "eventId": "evt_market_signal"
+  },
+  {
+    "id": "src_auto_5086629e",
+    "title": "[초점] 디지털자산 제도화 속도전…원화 스테이블코인·법인 투자 허용 '3대 과제' 부상",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wNlA4MFNYdVVTOC1oMW5COVVoVFdfQ0xtbk9QSUhEQ2c3S3RqWkF6V05EaGstSmk4bHJWekY2Y2RQWWI0dnl4dXRDenpCOHBacDduZlZrdHEyNG1JcjNISkswMnDSAWhBVV95cUxPcFRoQTRXMW1lY1gtR1NFTllJX1VFRExQMFpXOWN3QUlmLWlaUkdmSWlFdmZWM1dVQk1HZWpfUHJNNFBzV2JxdlFpQndNTHE0MTNleW53eHNZZ1pPeVh4SkQ3SjhlbnJUMQ?oc=5",
+    "publisher": "경인방송 뉴스",
+    "docType": "언론 보도",
+    "publishedDate": "2026-11-11",
+    "eventDate": "2026-11-11",
+    "verifiedDate": "2026-11-14",
+    "evidenceLevel": "언론 보도",
+    "eventId": "evt_market_signal"
+  },
+  {
+    "id": "src_auto_8f6fef17",
+    "title": "與 민병덕 \"디지털자산법, 내년 1월 9일까지 마무리\"",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xLXIxNl9UamRqblAydXJXeGxMOWtPUUpCSlFSVkltTFM2UW9saUU4dnRXSEJsVzN1clVJRGdwOEZ6cTA1dndzZWFoTVo1ZjhnWUd6RkpmSTlhQQ?oc=5",
+    "publisher": "한국경제",
+    "docType": "언론 보도",
+    "publishedDate": "2026-11-13",
+    "eventDate": "2026-11-13",
+    "verifiedDate": "2026-11-14",
+    "evidenceLevel": "언론 보도",
+    "eventId": "evt_market_signal"
+  },
+  {
+    "id": "src_auto_a7d720fb",
+    "title": "디지털자산기본법 이달 공개…거래소 신사업 물꼬 트나",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14R0xORkR0em9NRnh6SUY4cWVpX2laM2xZcGJKd1J5Wkg3Ny1pOGtYT0NORnpTM3YzeldQY09nb0EzZXF5TXRnekFUdlRTRXA5ZnRmY2xNYmNKTTUzWFhXbHRKTEladk1fcnhEctIBcEFVX3lxTE50cmhDLWJ3TXF0Z0luVXVaVTBROUxVR1dCUUpnZlZzTTl2Vl9OQUZkSHBoYUw2Wm5zYjBXSzMxQU5KYkpBMkc4bFZ6dTNPRTF1U3ZDN3c5eEYyYmlGWHp5SXpZZGUzUlRFVmg4WVpuTlo?oc=5",
+    "publisher": "DFT 대한금융신문",
+    "docType": "언론 보도",
+    "publishedDate": "2026-11-13",
+    "eventDate": "2026-11-13",
+    "verifiedDate": "2026-11-14",
+    "evidenceLevel": "언론 보도",
+    "eventId": "evt_market_signal"
+  },
+  {
+    "id": "src_auto_f862ca82",
+    "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKN1FZYjF1bkVPNnNUMEsyRGoyRUdabi1EeXZDQXRwYXl6SGtJSmxGQ1dpMUpSUnNfMG5RQzYyQUp2TEFWeFQ0VDlXVUFidWhITkE?oc=5",
+    "publisher": "매일경제 마켓",
+    "docType": "언론 보도",
+    "publishedDate": "2026-11-13",
+    "eventDate": "2026-11-13",
+    "verifiedDate": "2026-11-14",
+    "evidenceLevel": "언론 보도",
+    "eventId": "evt_market_signal"
+  },
+  {
     "id": "src_auto_80862769",
     "title": "디지털자산법 정부안 앞두고…금융권, 원화 스테이블코인 사업화 '분주'",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jcTQxalc1c19RSGR2UXVQdHRTdzRsZy15UHFPcEhuQW5laUtsMlN3NXc0Y1REVUZKZXpxQnE0VTZrTWg3Zy1hV3djbkMtWEFPVXNQMTU1UlpIbjU4N3pvZmpoUzI0ZjRuUjFOcg?oc=5",
