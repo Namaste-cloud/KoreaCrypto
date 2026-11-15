@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261115_d33c",
+    "discoveredAt": "2026-11-15T10:34:54+09:00",
+    "title": "[토큰증권 지형도] [KB증권] 자체 플랫폼 '깨비STO'로 기관금융 공략",
+    "publisher": "DealSite경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BYU9VaU9yeXdUSVR5LWtPQ2JTYVpsa1B1UGd6UjV0YnFkbDYyNThIcVRuVFdJQ1ZRbDRGMmpFUk5mUk1YSDJITUFXcUVvWWVPaGlnLXhidw?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[DealSite경제TV] 보도: '[토큰증권 지형도] [KB증권] 자체 플랫폼 '깨비STO'로 기관금융 공략' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261114_bfbb",
     "discoveredAt": "2026-11-14T06:16:13+09:00",
     "title": "코스콤, 우리투자증권과 ’토큰증권 플랫폼 사업’ 협력",
