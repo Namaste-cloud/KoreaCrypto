@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261116_3bcd",
+    "discoveredAt": "2026-11-16T01:13:59+09:00",
+    "title": "KB증권, 자체 IB 발행 플랫폼 속도…정형증권 토큰화 중심 [날개 편 토큰화, 증권사 선점 경쟁 (5)]",
+    "publisher": "한국금융신문",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hSHZfUW15eHU3ekxQWHgtamk0MW1yUVVmNmZ6RmtPRjZXME0tNVNVMDlxSUZiUzRIbjliSEFvMUtTMHo4bGhIWjJVd0pZbnVIVHdXSFk1cmVkSGxqZWxaSlZGakF5X25nNl95Wmx4dzhnVmZOWGFheGowVFI?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[한국금융신문] 보도: 'KB증권, 자체 IB 발행 플랫폼 속도…정형증권 토큰화 중심 [날개 편 토큰화, 증권사 선점 경쟁 (5)]' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261115_d33c",
     "discoveredAt": "2026-11-15T10:34:54+09:00",
     "title": "[토큰증권 지형도] [KB증권] 자체 플랫폼 '깨비STO'로 기관금융 공략",
