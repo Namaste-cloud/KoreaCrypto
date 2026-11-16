@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261116_93c5",
+    "discoveredAt": "2026-11-16T18:11:22+09:00",
+    "title": "토큰증권 업계, 금융위에 하위법규 보완 요청…“원장 간 이전 허용해야”",
+    "publisher": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMDhxc25wcTJOaE15c2RsTnQwTE93cGF2N291NXNaUHZENThYWjkxNnE0VWJHZncwRGE1Y3ZDaDh0NWJQcDVjdjJmZWZweHI1YkhQREljcVBDamJFQXl2dVltZHduSUZkblJ0SGpTTnU1ZmJpdUlURlpQeFgwcDlRVA?oc=5",
+    "matchedEntities": [
+      "org_fsc"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[이데일리] 보도: '토큰증권 업계, 금융위에 하위법규 보완 요청…“원장 간 이전 허용해야”' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261116_3bcd",
     "discoveredAt": "2026-11-16T01:13:59+09:00",
     "title": "KB증권, 자체 IB 발행 플랫폼 속도…정형증권 토큰화 중심 [날개 편 토큰화, 증권사 선점 경쟁 (5)]",
