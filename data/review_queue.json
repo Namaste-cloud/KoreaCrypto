@@ -1,5 +1,70 @@
 [
   {
+    "id": "rev_20261117_26e6",
+    "discoveredAt": "2026-11-17T12:30:21+09:00",
+    "title": "“카드 포인트로 채권 투자”…KB증권, 토큰증권 전 과정 실증",
+    "publisher": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtWlVlUGZiSW5xOXRmUFBnNXM5TUlWUHRzbEx0dFgwakxIaEFMM29HM3Z1UFJOeGZXeGhpTDZ4Z3lJZVRyMS1CdU80N0o3ZG9obDBPTXlvY0FOWTdBN3B6SGNQSTM?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[디지털데일리] 보도: '“카드 포인트로 채권 투자”…KB증권, 토큰증권 전 과정 실증' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261117_3b9c",
+    "discoveredAt": "2026-11-17T12:30:21+09:00",
+    "title": "KB증권, 채권 토큰증권 발행·상환 실증",
+    "publisher": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hREE0YUphQi1qdWhISW5sRkItZWxweS1PNjBHbmN5d2pnUVJCNlZud1R1TmQ1dThpTWkwN1hacHBHUlRQRktubE5CUDJsQQ?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[전자신문] 보도: 'KB증권, 채권 토큰증권 발행·상환 실증' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261117_2548",
+    "discoveredAt": "2026-11-17T12:30:21+09:00",
+    "title": "KB증권 \"채권 토큰증권 발행·상환 전 과정 실증 완료\"",
+    "publisher": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42cDg5N0dmUlAwV1FQSWFhSTBxWjAzOHJvRWNVRlRkMXB5RDNoU2Y1Q1EtYklLR2o0dFBVSzhrcmJlZTJvNDRSSnRsRDdFRWNKaEpocnVBbW1Ick9yYXZGY9IBeEFVX3lxTFBlMlM1MTNfc0htejBHUDNUd0FKNVVqX3BjZExmcGRyN2FqREJnUWZqNFl6ajFCeVBZUUs2dzFKamhRdDN6aFFlMzZLSllWV05qamRxRmRZc2ZJbW5HUlJsNk45b3BOaDNLNHcxdjNEUlFRSFJnOGJzZA?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[뉴시스] 보도: 'KB증권 \"채권 토큰증권 발행·상환 전 과정 실증 완료\"' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261117_4270",
+    "discoveredAt": "2026-11-17T12:30:21+09:00",
+    "title": "KB증권, 토큰증권으로 채권 발행부터 상환까지 실증",
+    "publisher": "www.ebn.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vejNKSlJZNE5ZYXotZnluRDk4RnExRDhnTlByMU1QWTNKVldrRENTNkF2aTdGaFFqd2R5bDJVT2tnWUpGb1liWDZqaG5PQTI5ckNBMHpMVlVyTHU3NmJ3TVBpckZwX2s4?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[www.ebn.co.kr] 보도: 'KB증권, 토큰증권으로 채권 발행부터 상환까지 실증' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261117_4efc",
+    "discoveredAt": "2026-11-17T12:30:21+09:00",
+    "title": "KB증권, '토큰증권 기반' 채권 발행·상환 전과정 실증",
+    "publisher": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pcmY0ZVNsYnh2MXFydDZCZXcyWHc0aDNhNzZkVmI5QU12ckwySjVDWWhHd2ZrdWN4T2dHa09IUmFUOGNQVW1NLXc0V2dJY1ItOE9sTmZocVpIY3PSAWBBVV95cUxNRTJyY05PT1hXM0tWcTh6NGdZV3BMb2xxY0JmR2g3T05NNW04dlZJamQ5WTdzN3pmdUtvdktIeXdPa2p6SWVtSVMxNVhBbldZNFZhNWxHYTF5T05zVTR0UXI?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[연합뉴스] 보도: 'KB증권, '토큰증권 기반' 채권 발행·상환 전과정 실증' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261116_93c5",
     "discoveredAt": "2026-11-16T18:11:22+09:00",
     "title": "토큰증권 업계, 금융위에 하위법규 보완 요청…“원장 간 이전 허용해야”",
