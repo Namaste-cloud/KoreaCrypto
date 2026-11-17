@@ -1,5 +1,44 @@
 [
   {
+    "id": "rev_20261117_bcce",
+    "discoveredAt": "2026-11-17T21:53:45+09:00",
+    "title": "코스콤 토큰증권 플랫폼, ‘현대차증권’ 합류",
+    "publisher": "스트레이트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0X21xLXNMU1BTb3NwQmJ0Y2xhRzNmS0ZwbEVZOXlheFZpOTc0a1JaQ25XX1pKZXREUEkzS1JWQnZOeVg3OEtnemdBbS0wRFdKTjU0MWs0LVowMDJUUDFfd2U2XzhIc3FVckVSNHR4YzZmblnSAXdBVV95cUxQTExlbzQySUg0UHByM3NvN3Y3cGRmaXJERXlTRnJYNmpERVhGVFpHUHdVUDFzOVpzc1dNeUVDNUUxczJVM3dmY0dsRG1KTldiY2dJNnlFT0VWelVjSEJQamNXZ29iOWFyZzBtQ2s4bHJWME5uU3d1MA?oc=5",
+    "matchedEntities": [
+      "org_koscom"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[스트레이트뉴스] 보도: '코스콤 토큰증권 플랫폼, ‘현대차증권’ 합류' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261117_99df",
+    "discoveredAt": "2026-11-17T21:53:45+09:00",
+    "title": "하나금융, 원화 스테이블코인 답안지 10개월 전에 썼다…은행 과반 요건에 4곳 연합",
+    "publisher": "녹색경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yOFBlUnJVd2pGS2JqVmVnQ09IaEdjcy1pRGw4cDNtY2ZqUjNUOHg5ZmhMSk5UWUVVVmVrQ2VqSWkxQjB5dmVfRkdoMlpRaFR6V1ZCVV9GMmhNMzB1UXVDNHFRWE5XbzBN?oc=5",
+    "matchedEntities": [
+      "org_hana_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[녹색경제신문] 보도: '하나금융, 원화 스테이블코인 답안지 10개월 전에 썼다…은행 과반 요건에 4곳 연합' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261117_a765",
+    "discoveredAt": "2026-11-17T21:53:45+09:00",
+    "title": "KB증권, 토큰증권 기반 채권 발행·상환 실증",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VWXZiVFh1YnRxWmoxbkNUQWI1Vi12aGY3eUkxcVFTZmlrNjdEOW5jZFd4Y1Q3S1Nua0d3M0hFdmR0dFh0TGNrWmxSZmdCRkctT2l5cFg2M1JJZw?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[한국경제] 보도: 'KB증권, 토큰증권 기반 채권 발행·상환 실증' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261117_26e6",
     "discoveredAt": "2026-11-17T12:30:21+09:00",
     "title": "“카드 포인트로 채권 투자”…KB증권, 토큰증권 전 과정 실증",
