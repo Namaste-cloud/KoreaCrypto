@@ -1,5 +1,19 @@
 [
   {
+    "id": "chg_20261118_61",
+    "timestamp": "2026-11-18T06:34:32+09:00",
+    "targetType": "project",
+    "targetId": "proj_kb_sto_v2",
+    "targetName": "기관 디지털자산 시장 동향 모니터",
+    "field": "시장 신호 자동 수집 동기화",
+    "oldValue": null,
+    "newValue": "신규 기사 'KB증권, 토큰증권으로 채권 발행부터 상환까지 실증 By EBN' 등 1건 수집 반영",
+    "changeType": "정보 갱신",
+    "evidenceSourceId": "src_auto_030702ee",
+    "appliedMode": "자동 수집(검토 큐 연계)",
+    "summary": "자동 수집기를 통해 'Investing.com 한국어' 등에서 최신 동향 기사 1건이 신규 탐지되어 검토 대기열에 등록되었습니다."
+  },
+  {
     "id": "chg_20261117_60",
     "timestamp": "2026-11-17T21:53:45+09:00",
     "targetType": "project",

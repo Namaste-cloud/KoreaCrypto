@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261118_0307",
+    "discoveredAt": "2026-11-18T06:34:32+09:00",
+    "title": "KB증권, 토큰증권으로 채권 발행부터 상환까지 실증 By EBN",
+    "publisher": "Investing.com 한국어",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBneEVUVG0wcmYxNllNeUo5WVM5R1NsZ1dSQzhQMUtxY0h6TmN4dENCVVBMRExLZlNpZVhZdzU3R1preXhMOFVwQmFDWGl2RkdfSjJ1NDNjM3BodjF1UHdTZkZFQ0xmRzJTS0dYNGU5Rjg?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[Investing.com 한국어] 보도: 'KB증권, 토큰증권으로 채권 발행부터 상환까지 실증 By EBN' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261117_bcce",
     "discoveredAt": "2026-11-17T21:53:45+09:00",
     "title": "코스콤 토큰증권 플랫폼, ‘현대차증권’ 합류",
