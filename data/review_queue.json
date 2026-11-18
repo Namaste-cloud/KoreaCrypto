@@ -1,5 +1,31 @@
 [
   {
+    "id": "rev_20261118_f687",
+    "discoveredAt": "2026-11-18T12:25:20+09:00",
+    "title": "카드 포인트로 채권 산다…KB증권, 토큰증권 발행·상환 전 과정 실증",
+    "publisher": "더퍼블릭",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzYml5MTE3dFhhaThiN2JTZG9yUG5qOFZHQ1dZdkxNNklZbVdJanVKaVNIaEN0TlhROGx3ZjY1Zk95ckpCVlQteWZzQV9WbzZsM3RfZWhVZUlDQ2Z5amhEMzF1TmJFSW9jR0JF0gFvQVVfeXFMTU5KR1FfQjNSSkhZZi1WOW9mQlZNX2huSmRRNFROelVYRHEyUUNnMlJHQmMzZWlUY0QwLV9xeGd3cHgzNnV2OXo1Q0lObGN3dUR4c1FhbmlBNU9FdThLR2JSVkZFczE1WFU0SkUwQlBJ?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[더퍼블릭] 보도: '카드 포인트로 채권 산다…KB증권, 토큰증권 발행·상환 전 과정 실증' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261118_b11e",
+    "discoveredAt": "2026-11-18T12:25:20+09:00",
+    "title": "[증권픽] KB證, 토큰증권 기반 채권 발행·상환 실증 외",
+    "publisher": "뉴시안",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzNVQ5RXdwS3ZWU0VuY1haVUdxR2FTVzRhNmY0cEVqa2pScTl5U3RCcTg4enp0VUZrNF9YRTJxX2w1YTdUMXNvaEQ2Ni1sWWp0Y082UkhaMlFieGVnVHhBVlg1MjhoTDN4WC1PTg?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[뉴시안] 보도: '[증권픽] KB證, 토큰증권 기반 채권 발행·상환 실증 외' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261118_0307",
     "discoveredAt": "2026-11-18T06:34:32+09:00",
     "title": "KB증권, 토큰증권으로 채권 발행부터 상환까지 실증 By EBN",
