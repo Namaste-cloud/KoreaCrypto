@@ -1,5 +1,31 @@
 [
   {
+    "id": "rev_20261119_6956",
+    "discoveredAt": "2026-11-19T20:28:00+09:00",
+    "title": "코스콤, 토큰증권 공동플랫폼 공개…AI 금융데이터 서비스도 선봬",
+    "publisher": "더트래커",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hbjRXdEJxdnZHa1N1ZHUwTGJiUHBoUzVkUENReE5scy1Zc08wZkduZXFvUjFrQ0E3MUJKaTVxVUVVV0VJZ19IdXc4NXhjQk93cXlxQ19vVFc?oc=5",
+    "matchedEntities": [
+      "org_koscom"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[더트래커] 보도: '코스콤, 토큰증권 공동플랫폼 공개…AI 금융데이터 서비스도 선봬' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261119_ca37",
+    "discoveredAt": "2026-11-19T20:28:00+09:00",
+    "title": "금융위, 토큰증권 하위법규 입법예고…주식·채권·펀드도 포함",
+    "publisher": "뉴시안",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84dXB6ckdFQzVUTzFVSVhYZmlfSTZhWmp3SjNvaS1xZUlIcGdjQWRZalZOZjI2Q2pldUdXRlhjOU5yRHdmSlBlQ1VXcENOQXg5WURXbmZxbjgxOU9hczE5R3IwcV95U1gtREZr?oc=5",
+    "matchedEntities": [
+      "org_fsc"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[뉴시안] 보도: '금융위, 토큰증권 하위법규 입법예고…주식·채권·펀드도 포함' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261118_f687",
     "discoveredAt": "2026-11-18T12:25:20+09:00",
     "title": "카드 포인트로 채권 산다…KB증권, 토큰증권 발행·상환 전 과정 실증",
