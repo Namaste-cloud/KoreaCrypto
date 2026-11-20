@@ -1,5 +1,18 @@
 [
   {
+    "id": "rev_20261120_21b9",
+    "discoveredAt": "2026-11-20T20:03:51+09:00",
+    "title": "포인트로 채권을 산다면... KB증권, 토큰증권 기반 채권 발행•상환 실증",
+    "publisher": "리버티코리아포스트",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93ZUtSeHlwb1ZfeEQtd1hQTHBrTzJYM19XaTJRdGFHSkozcHdaeGlDc2d6c3dsNVFiR1hsd1pxcENNSm5sSXB1SUJzcW94d0JXTy1aS0l4aFlwLXQ3aVVnU3Fic9IBZ0FVX3lxTFBJM0J5cDhmU0N2NXB5VHoxTFM2alByZDZabGhxNHdRUGR6eTNhNlc0QUxWa0prU1d2bTBDMGxjd2xXUkxKNXhvNVlhMElpNWJmcDVUc0NLdWxycHFIWWNTNjJsMnRJS28?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[리버티코리아포스트] 보도: '포인트로 채권을 산다면... KB증권, 토큰증권 기반 채권 발행•상환 실증' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261119_6956",
     "discoveredAt": "2026-11-19T20:28:00+09:00",
     "title": "코스콤, 토큰증권 공동플랫폼 공개…AI 금융데이터 서비스도 선봬",
