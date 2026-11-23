@@ -1,5 +1,83 @@
 [
   {
+    "id": "rev_20261123_6858",
+    "discoveredAt": "2026-11-23T17:42:36+09:00",
+    "title": "디지털자산기본법 정부안 이번 주 윤곽…네이버·두나무 빅딜 '셈법' 변수",
+    "publisher": "www.ebn.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16bWRJbExENzdVZGxiSEl6ekNyeHhLQzIwVUJZTzVKWm4yUnpTaWNmbmtkaHZzbEFoRmlieWEwejM1MzhRN1FURzFWMWFUSVg0bUc3WjZTOXlVWmR0MDhTY0RFY2pGS0d3?oc=5",
+    "matchedEntities": [
+      "org_upbit"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[www.ebn.co.kr] 보도: '디지털자산기본법 정부안 이번 주 윤곽…네이버·두나무 빅딜 '셈법' 변수' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261123_50ce",
+    "discoveredAt": "2026-11-23T17:42:36+09:00",
+    "title": "[크립토하나] 비트코인 6만 달러 사수할까…국내선 디지털자산기본법 공개",
+    "publisher": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uYzBLdUo4VGtMQkVMRmYyU1FWUmt0bmVTWGY2ZURhNzd6Wk9oNmN0cVRBVURXR3NQSUc1RDFuSElYWm1mbFRZVmVnQ3VKOGpIZG9fVXJR?oc=5",
+    "matchedEntities": [
+      "org_hana_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[지디넷코리아] 보도: '[크립토하나] 비트코인 6만 달러 사수할까…국내선 디지털자산기본법 공개' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261123_6c43",
+    "discoveredAt": "2026-11-23T17:42:36+09:00",
+    "title": "KB증권 \"토큰증권에 AI 필수...스테이블코인 결합시 폭발 성장\"",
+    "publisher": "디지털애셋",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVGJMOXhwYnNRdHpLYTJZWEJQMzlnVU12c1k0RjM2UE5vbVEyODBidVFOYTJpQW9iX3g4TUQ2N1lrUnd3YVprMDhyQThqd0h1aEFJVmpzSDc5cjRYeXdkQjhQb1B2dFEtYWFVc0MzWEUxdw?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[디지털애셋] 보도: 'KB증권 \"토큰증권에 AI 필수...스테이블코인 결합시 폭발 성장\"' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261123_5219",
+    "discoveredAt": "2026-11-23T17:42:36+09:00",
+    "title": "KB증권 \"토큰증권 폭발적 성장 기대 어려워…공모증권 확대 시점이 관건\" [크립토브리핑]",
+    "publisher": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pMkFqdzZjQWtSZW1DUF9sRnpkSm4tNzQ0ckpEU2hhYjljemx2d083MWpOV2pzUXEzRy1pamlia20zaVhudVNlekY0bXlwNFdqLUtSV3Q3LXZZQQ?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[파이낸셜뉴스] 보도: 'KB증권 \"토큰증권 폭발적 성장 기대 어려워…공모증권 확대 시점이 관건\" [크립토브리핑]' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261123_c46e",
+    "discoveredAt": "2026-11-23T17:42:36+09:00",
+    "title": "KB증권, 첫 토큰증권 상품은 'MMF'…멀티체인 플랫폼 구축",
+    "publisher": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lSW9hbkxKbjRuMTR4eVRkbXcwbm9KQlZWc1owZnM3QmJLbkQ0Mm51anV6WTAxaUs1SVRPYzctbXI3dVZSM1NTTDBvM3NLc0xVT3ljQnUyVVM2dU1rOFZ4Z2hsb3JLdw?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[뉴스1] 보도: 'KB증권, 첫 토큰증권 상품은 'MMF'…멀티체인 플랫폼 구축' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261123_83a2",
+    "discoveredAt": "2026-11-23T17:42:36+09:00",
+    "title": "KB증권 \"토큰증권 초반 MMF 집중…공모증권 열리면 폭발적 성장\"",
+    "publisher": "마켓인",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10UjAtTURIYk16cUZiVERPclU1U21WNGhPUy1wVkJjN3lFbFhBREs4MXNHakhaNGRHWTI5ZEt1WTFMZmZPRjJvMDVzOGk1RHhKdV9BeU93RDR6YUt1V242ZmcyNlpSdGxLUTBkX1E5U1E1N2c?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[마켓인] 보도: 'KB증권 \"토큰증권 초반 MMF 집중…공모증권 열리면 폭발적 성장\"' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261120_21b9",
     "discoveredAt": "2026-11-20T20:03:51+09:00",
     "title": "포인트로 채권을 산다면... KB증권, 토큰증권 기반 채권 발행•상환 실증",
