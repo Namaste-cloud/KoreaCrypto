@@ -1,5 +1,31 @@
 [
   {
+    "id": "rev_20261124_6401",
+    "discoveredAt": "2026-11-24T14:15:35+09:00",
+    "title": "네이버파이낸셜·신한銀, 원화 코인 사업 머리 맞댄다",
+    "publisher": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RX05aMDhMbzZDSWV4eDNUMTNsUXhBdHRCUTRwR3A0LXJoblJzdWZibWdqQl9nQ3oxSnhGTzE3XzlxNE1xSWFLMmxqZ1ZxSU9ucmfSAVNBVV95cUxPczNFZERwWEp6bzZ1bjRaNzk5WVl0eWRPOUlQVzNZNG94UUdEWmc1Smc1MzJzUzVORGNVbmo5Tl9haDFQNEJ2ay1nd0ZmVVVPaExZYw?oc=5",
+    "matchedEntities": [
+      "org_shinhan_fg"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[서울경제] 보도: '네이버파이낸셜·신한銀, 원화 코인 사업 머리 맞댄다' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261124_cef5",
+    "discoveredAt": "2026-11-24T14:15:35+09:00",
+    "title": "KB증권 \"토큰증권 첫해는 준비 단계...2년 뒤가 본게임\"",
+    "publisher": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZVWYtV2NVX3BsdVdXZVJ2WTdFenNlWHhOc3ZjUEVWbVhad0pVT29SbEdOeW83UUctSlEwQURGdnR2WmFtN2RRTmlmeFJuLWRxdzFSVEprcDQ2cTYyUUlBM3hVRDFYd29wbUR1c2NTcUIwaTA?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[디지털투데이] 보도: 'KB증권 \"토큰증권 첫해는 준비 단계...2년 뒤가 본게임\"' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261124_7295",
     "discoveredAt": "2026-11-24T05:58:37+09:00",
     "title": "“KB증권, 멀티체인 발행·유통 플랫폼 준비…2~3년 뒤 공모시장 개방시 성장 기대” [크립토360]",

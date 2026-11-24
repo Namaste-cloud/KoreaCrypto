@@ -1,5 +1,19 @@
 [
   {
+    "id": "chg_20261124_76",
+    "timestamp": "2026-11-24T14:15:35+09:00",
+    "targetType": "project",
+    "targetId": "proj_kb_sto_v2",
+    "targetName": "기관 디지털자산 시장 동향 모니터",
+    "field": "시장 신호 자동 수집 동기화",
+    "oldValue": null,
+    "newValue": "신규 기사 'KB증권 \"토큰증권 첫해는 준비 단계...2년 뒤가 본게임\"' 등 3건 수집 반영",
+    "changeType": "정보 갱신",
+    "evidenceSourceId": "src_auto_cef59e05",
+    "appliedMode": "자동 수집(검토 큐 연계)",
+    "summary": "자동 수집기를 통해 '디지털투데이' 등에서 최신 동향 기사 3건이 신규 탐지되어 검토 대기열에 등록되었습니다."
+  },
+  {
     "id": "chg_20261124_75",
     "timestamp": "2026-11-24T05:58:37+09:00",
     "targetType": "project",
