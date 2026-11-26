@@ -1,5 +1,31 @@
 [
   {
+    "id": "rev_20261126_963d",
+    "discoveredAt": "2026-11-26T23:49:18+09:00",
+    "title": "KB증권, 시각장애인 고객과 소통 강화 위해 소비자 포럼 개최",
+    "publisher": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Jb3hJY2xCZGZCWWs0Uzc2UU4zZ3RmWE9POW5lLW9YWWxEY0NlaTlyeUE0aUl1cGljbFM1SThqWHpXZUxXQV90TDFReVJZOEJkdDRmNmEtRFpOYThf?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[뉴스핌] 보도: 'KB증권, 시각장애인 고객과 소통 강화 위해 소비자 포럼 개최' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261126_b5f6",
+    "discoveredAt": "2026-11-26T23:49:18+09:00",
+    "title": "[현장스케치] '토큰증권 공동 플랫폼' 선보인 코스콤…금융 AI 서비스도 배치 [코리아 핀테크 위크 2026]",
+    "publisher": "한국금융신문",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5R1pfX0hCb3RkbXFmWWlFX3lnWjNuQmhxcUxYUmd2U0IyVlFad2Y3OHAtSDZzMDRwZ1BuRWdGWU5DSHd0ZFlqdlllOWxteHoxdV9pUTFBS3pIMkdQNENKTXo3RTdhOHJZbTdzWjQ3TzU5T2NaOVh4OGo2UHQ?oc=5",
+    "matchedEntities": [
+      "org_koscom"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[한국금융신문] 보도: '[현장스케치] '토큰증권 공동 플랫폼' 선보인 코스콤…금융 AI 서비스도 배치 [코리아 핀테크 위크 2026]' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261125_b61b",
     "discoveredAt": "2026-11-25T21:19:15+09:00",
     "title": "한은 \"예금토큰 활용 확대…내년 국채 토큰화 실증 시범사업 추진\"",
