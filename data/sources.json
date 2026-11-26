@@ -1,5 +1,65 @@
 [
   {
+    "id": "src_auto_3c90a3c8",
+    "title": "베일 벗은 디지털자산법, 코인 투자자에게 달라지는 것[엠블록레터]",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42WnRlQTlrcEFuY1Ywd0k4ZmFxS3I4YkdXTFQyeHRHQW9WSThWMExrcXpoVmFXdGtJNW9mTjFUT3JmWk1CVHZ4dldDT2UycktqbEE?oc=5",
+    "publisher": "매일경제 마켓",
+    "docType": "언론 보도",
+    "publishedDate": "2026-11-25",
+    "eventDate": "2026-11-25",
+    "verifiedDate": "2026-11-26",
+    "evidenceLevel": "언론 보도",
+    "eventId": "evt_market_signal"
+  },
+  {
+    "id": "src_auto_896fb9e6",
+    "title": "디지털자산법, 코인시장을 금융산업으로 바꾼다…은행 키우고 거래소는 소유분산",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2Tks0ekNkZzN4cHE4QjZYcFRqa2J0N2lBNy1JdWo5aEhYWGZrMVRsUU9iYVBaOEh3SFZ1UjlvVjBQTGM2b1A4bHE0bzQ1QzJoa0xPRUtoOEpmRThNaVlFa1oxUkVJaV80bzJFQQ?oc=5",
+    "publisher": "ESG경제",
+    "docType": "언론 보도",
+    "publishedDate": "2026-11-26",
+    "eventDate": "2026-11-26",
+    "verifiedDate": "2026-11-26",
+    "evidenceLevel": "언론 보도",
+    "eventId": "evt_market_signal"
+  },
+  {
+    "id": "src_auto_3c5017ae",
+    "title": "[크립토핫이슈] 스테이블코인 담은 디지털자산기본법 공개…법인·ETF는 빠져",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xam1SeTFFNUJHNlI4UENBTElSQkpWX3FINEFRZW9QeHU3VHFzY3U5TUhSaDZWbkNrSS00eUY4V2g0aENkSF9PY2ZVaG9GWWdCY2pURlA5b083blU4MGthWEZIdjFkZm4zQjRibTBRYXV3T2c?oc=5",
+    "publisher": "디지털투데이",
+    "docType": "언론 보도",
+    "publishedDate": "2026-11-25",
+    "eventDate": "2026-11-25",
+    "verifiedDate": "2026-11-26",
+    "evidenceLevel": "언론 보도",
+    "eventId": "evt_market_signal"
+  },
+  {
+    "id": "src_auto_081461cb",
+    "title": "토스·카카오·삼성까지 뛰어든 코인 지갑 전쟁…미래 금융의 주인은 누구인가",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPdUpSN3lTOTZ2M3FoQWE5b0FIU3dweUUwRDBOUzBCUzZqWkpHX1dBUFFPOENCRjgxWW5yVW5UYWNkeEVaRDhRcEJGSzBWbm5jVlRMTlBmdUVYaWw0ZmVQQWNnNWM?oc=5",
+    "publisher": "용인신문",
+    "docType": "언론 보도",
+    "publishedDate": "2026-11-26",
+    "eventDate": "2026-11-26",
+    "verifiedDate": "2026-11-26",
+    "evidenceLevel": "언론 보도",
+    "eventId": "evt_market_signal"
+  },
+  {
+    "id": "src_auto_3bd34821",
+    "title": "디지털자산기본법 정부안 공개…거래소 대주주 지분 원칙 20%, 원화 스테이블코인은 '은행 과반 컨소시엄'부터",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcEhDLTVhYzFOeEpRY3hMSURDdjExdU9ZRldqNmJyWlFPZFE5Q2d5akEwTWhHVjNpWll2ZWZNSzctNFRlcDNLdExXOTlGV2Y3Wm5vY1Q2Qlp5WDBnaVJ1djV6cklmeVXSAWtBVV95cUxNNlh3T2JGQXlqeFRxMzVKd3B1NVdXamQ3eTdlcTZxcENkLXJqNTNXUnp5dEU3OFdTaG42NXZlSnRSMklGXzlmZG9Dd1RfX3FZUkpoUlBYNWgxdEdjU2h0dWJzbW5nU0w4M18wVQ?oc=5",
+    "publisher": "CEO저널",
+    "docType": "언론 보도",
+    "publishedDate": "2026-11-26",
+    "eventDate": "2026-11-26",
+    "verifiedDate": "2026-11-26",
+    "evidenceLevel": "언론 보도",
+    "eventId": "evt_market_signal"
+  },
+  {
     "id": "src_auto_1fddb765",
     "title": "[디지털자산법 대해부②] 원화코인 발행량 사전심사…공급 늦으면 '웃돈'",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZMVAxRlBaeTNUNU16LV9LS1V4S2trQzAxZEw0QTVreEotbVpRZ0g3eDRRdHJZNUZEd2dzZjJmcGt4alpFUFBIM3dMTUx3S0JyT0dQaFlNX1dQRmdRV08wVGx5ZFBmaEhkNGdWWHJNY2o?oc=5",
