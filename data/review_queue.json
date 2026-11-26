@@ -1,5 +1,31 @@
 [
   {
+    "id": "rev_20261127_c817",
+    "discoveredAt": "2026-11-27T08:33:46+09:00",
+    "title": "KB국민은행, 예금토큰 결제 서비스 공개…지급결제 시장 선점",
+    "publisher": "초이스경제",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sRmh1V3VDRktIdkRtTEJoSjdqclg5UWEwMFRWbGJ1clEzc2NteUJkeXRub2NHRlVzbjZLYnBQY1lCMVFnWVhxb3dNQndza3NMZHl2ZDRfaFBJanQ5OTNteVNkcmhGaUp2NmVkd1hHS3BkcjjSAXNBVV95cUxObEZodVd1Q0ZLSHZEbUxCaEo3anJYOVFhMDBUVmxidXJRM3NjbXlCZHl0bm9jR0ZVc242S2JwUGNZQjFRZ1lYcW93TUJ3c2tzTGR5dmQ0X2hQSWp0OTkzbXlTZHJoRmlKdjZlZHdYR0twZHI4?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[초이스경제] 보도: 'KB국민은행, 예금토큰 결제 서비스 공개…지급결제 시장 선점' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
+    "id": "rev_20261127_3e5b",
+    "discoveredAt": "2026-11-27T08:33:46+09:00",
+    "title": "KB국민은행, 예금토큰 상용화 길 닦는다",
+    "publisher": "공공뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JU2R4amo1ZzNrVnZTSXdFejlkR2piTlpSSnlSMGVqLXJUeTNGb0EwUVZsQzVxR3RHelY0cGlKWTc3ZXNRQzZlY2c0aFFpVnY3NWFpMDFQRzF0NnVOcXNQNVBWV25PQlVNN3YxWTR30gFuQVVfeXFMTklTZHhqajVnM2tWdlNJd0V6OWRHamJOWlJKeVIwZWotclR5M0ZvQTBRVmxDNXFHdEd6VjRwaUpZNzdlc1FDNmVjZzRoUWlWdjc1YWkwMVBHMXQ2dU5xc1A1UFZXbk9CVU03djFZNHc?oc=5",
+    "matchedEntities": [
+      "org_kb_sec"
+    ],
+    "issue": "신규 감지 시장 동향 (자동 수집)",
+    "details": "[공공뉴스] 보도: 'KB국민은행, 예금토큰 상용화 길 닦는다' 관련 시장 신호 감지. 사업 영향도 및 공식 확인 여부 검토 대기.",
+    "status": "검토 대기"
+  },
+  {
     "id": "rev_20261126_963d",
     "discoveredAt": "2026-11-26T23:49:18+09:00",
     "title": "KB증권, 시각장애인 고객과 소통 강화 위해 소비자 포럼 개최",
